@@ -90,10 +90,15 @@ color: #66bfc7;
 .nav.nav-tabs>li>a:hover,
 .nav.nav-tabs > li.active > a:hover,
 .nav.nav-tabs > li.active > a:focus,
-.nav.nav-tabs>li.active>a,
 .navbar-custom .nav > .active > a{
 	background-color:#ffeed2;
 	color: #66bfc7;
+}
+
+/* Activites Active Tab */
+.nav.nav-tabs>li.active>a{
+	background-color:#caddf3;
+	color: #64bcc4
 }
 
 h2

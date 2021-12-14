@@ -1668,6 +1668,8 @@ html{
 }
  .nav.nav-tabs > li.active > a:hover, .nav.nav-tabs > li.active > a:focus, .nav.nav-tabs > li >a:hover{
      border: 0;
+     background-color: #daeaf9     !important;
+     color: #64bcc4 !important;
 }
  .nav.nav-tabs > li {
      float:none;

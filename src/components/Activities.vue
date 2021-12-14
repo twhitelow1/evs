@@ -22,7 +22,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/activity1.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/kidshiking.jpg" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -53,7 +53,7 @@
                                  </div>
                                  <div id="collapse2" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>2-12+ *please note that your sitter may not be a certified lifeguard.
+                                       <p>6-12+
                                        </p>
                                     </div>
                                  </div>
@@ -68,7 +68,7 @@
                                  </div>
                                  <div id="collapse3" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>All ages; please be advised that you are responsible for your child’s lift ticket fees, and the sitter’s if they do not possess an epic pass. Scenic Gondola Rides are only available in the summer season. Kids 4 and under ride free.
+                                       <p> June - September Weather Permitting.
                                        </p>
                                     </div>
                                  </div>
@@ -87,7 +87,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/activity2.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/swimming.jpg" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -103,8 +103,8 @@
                                  </div>
                                  <div id="collapse4" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies. 
+                                       <p>
+                                          Sitters can supervise swimming at your residence, please note that your sitter may not be a certified lifeguard. 
                                        </p>
                                     </div>
                                  </div>
@@ -119,8 +119,8 @@
                                  </div>
                                  <div id="collapse5" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>
+                                          2-12+
                                        </p>
                                     </div>
                                  </div>
@@ -135,8 +135,8 @@
                                  </div>
                                  <div id="collapse6" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>
+
                                        </p>
                                     </div>
                                  </div>
@@ -155,7 +155,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/activity3.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/gondolaonesmall.jpg" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -171,8 +171,7 @@
                                  </div>
                                  <div id="collapse7" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies. 
+                                       <p>Please be advised that you are responsible for your child’s lift ticket fees, and the sitter’s if they do not possess an epic pass. Kids 4 and under ride free.
                                        </p>
                                     </div>
                                  </div>
@@ -187,8 +186,7 @@
                                  </div>
                                  <div id="collapse8" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>All Ages
                                        </p>
                                     </div>
                                  </div>
@@ -203,8 +201,8 @@
                                  </div>
                                  <div id="collapse9" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>
+                                          Scenic Gondola Rides are only available in the summer season. 
                                        </p>
                                     </div>
                                  </div>
@@ -223,7 +221,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/activity4.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/boyonslide.jpg" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -239,8 +237,7 @@
                                  </div>
                                  <div id="collapse10" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies. 
+                                       <p>The towns of Vail and Avon have many fun parks and playgrounds for children of all ages. Our sitters create dynamic, fun, and engaging activities to keep your child entertained. After all, your kids are on vacation too! 
                                        </p>
                                     </div>
                                  </div>
@@ -255,9 +252,7 @@
                                  </div>
                                  <div id="collapse11" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
-                                       </p>
+                                       <p>All Ages</p>
                                     </div>
                                  </div>
                               </div>
@@ -271,8 +266,7 @@
                                  </div>
                                  <div id="collapse12" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>All Year 
                                        </p>
                                     </div>
                                  </div>
@@ -291,7 +285,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/activity5.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/skichap.jpg" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -307,9 +301,7 @@
                                  </div>
                                  <div id="collapse13" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies. 
-                                       </p>
+                                       <p>Book a sitter for a fun ski day at Vail or Beaver Creek! Our sitters are experienced skiers and riders. However, we are not ski coaches. Ski chaperones are only offered for children who already know how to ski. There is an additional $5 per hour fee to book a ski chaperone.</p>
                                     </div>
                                  </div>
                               </div>
@@ -323,9 +315,7 @@
                                  </div>
                                  <div id="collapse14" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
-                                       </p>
+                                       <p>4-12+</p>
                                     </div>
                                  </div>
                               </div>
@@ -339,9 +329,7 @@
                                  </div>
                                  <div id="collapse16" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
-                                       </p>
+                                       <p>Late November - Mid April</p>
                                     </div>
                                  </div>
                               </div>
