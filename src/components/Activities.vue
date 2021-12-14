@@ -10,10 +10,10 @@
             <!--Navigation -->
             <ul class="nav nav-tabs" id="myTab">
                <li class="active"><a href="#tab1" data-toggle="tab">Hiking</a></li>
-               <li><a href="#tab2" data-toggle="tab">Gondola Ride</a></li>
-               <li><a href="#tab3" data-toggle="tab">Lunch</a></li>
-               <li><a href="#tab4" data-toggle="tab">Swimming</a></li>
-               <li><a href="#tab5" data-toggle="tab">Playground</a></li>
+               <li><a href="#tab2" data-toggle="tab">Swimming</a></li>
+               <li><a href="#tab3" data-toggle="tab">Gondola Rides</a></li>
+               <li><a href="#tab4" data-toggle="tab">Playground</a></li>
+               <li><a href="#tab5" data-toggle="tab">Ski Chaperone</a></li>
             </ul>
             <div class="tabbable">
                <div class="tab-content col-md-12 col-centered">
@@ -26,7 +26,7 @@
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
-                           <h3>Hikes</h3>
+                           <h3>Hiking</h3>
                            <!-- Accordion -->
                            <div class="panel-group" id="accordion">
                               <!-- Question 1 -->
@@ -38,8 +38,7 @@
                                  </div>
                                  <div id="collapse1" class="panel-collapse collapse in">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies. 
+                                       <p>Eagle County is full of wonderful trails for hiking. Our sitters are local outdoor enthusiasts, and we love helping children get outside and get active! *This activity is only offered in the summer.
                                        </p>
                                     </div>
                                  </div>
@@ -54,8 +53,7 @@
                                  </div>
                                  <div id="collapse2" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>2-12+ *please note that your sitter may not be a certified lifeguard.
                                        </p>
                                     </div>
                                  </div>
@@ -70,8 +68,7 @@
                                  </div>
                                  <div id="collapse3" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p>Patatemp dolupta orem retibusam qui commolu 
-                                          les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget, viverra elit. 
+                                       <p>All ages; please be advised that you are responsible for your child’s lift ticket fees, and the sitter’s if they do not possess an epic pass. Scenic Gondola Rides are only available in the summer season. Kids 4 and under ride free.
                                        </p>
                                     </div>
                                  </div>
@@ -94,7 +91,7 @@
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
-                           <h3>Spanish Classes</h3>
+                           <h3>Swimming Supervision</h3>
                            <!-- Accordion -->
                            <div class="panel-group" id="accordion2">
                               <!-- Question 1 -->
@@ -162,7 +159,7 @@
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
-                           <h3>Lunch</h3>
+                           <h3>Gondola Rides</h3>
                            <!-- Accordion -->
                            <div class="panel-group" id="accordion3">
                               <!-- Question 1 -->
@@ -230,7 +227,7 @@
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
-                           <h3>Swimming</h3>
+                           <h3>Playground</h3>
                            <!-- Accordion -->
                            <div class="panel-group" id="accordion4">
                               <!-- Question 1 -->
@@ -298,7 +295,7 @@
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
-                           <h3>Playground</h3>
+                           <h3>Ski Chaperone</h3>
                            <!-- Accordion -->
                            <div class="panel-group" id="accordion5">
                               <!-- Question 1 -->

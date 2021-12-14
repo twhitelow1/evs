@@ -1,5 +1,5 @@
 <template>
-  <div class="Callout">
+   <div class="Callout">
     <!-- Section Callout -->
       <section id="callout" class="small-section">
          <!-- Clouds background -->
@@ -11,7 +11,7 @@
 			  <div class="cloud x5"></div>
 			  <div class="cloud x6"></div>
 			  <div class="cloud x7"></div>
-		</div>
+		   </div>
          <!-- /Clouds ends -->
          <div class="container">
             <!-- Animated Sun -->
@@ -55,16 +55,16 @@
             </div>
             <!-- /Animated Sun -->
             <div class="col-md-6 col-sm-6 text-center">
-			<div class="well">
-               <h3>Book A Sitter</h3>
-               <p>Lotam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi Suspendisse a elementum anteu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-               <div class="page-scroll">
-                  <!-- Button-->
-                  <a class="btn" href="#contact">Contact us</a>
-               </div>
-			   <!-- /page-scroll -->
-			  </div>
-			  <!-- /well -->
+			      <div class="well">
+                  <h3>Book A Sitter</h3>
+                  <p>Let Eagle Valley Sitters find you the perfect babysitter to meet your needs during your stay. Sitters are available to book for daytime, evenings, holidays, and weekends. We are open year round.</p>
+                  <div class="page-scroll">
+                     <!-- Button-->
+                     <a class="btn" href="#contact">Contact us</a>
+                  </div>
+			         <!-- /page-scroll -->
+			      </div>
+			   <!-- /well -->
             </div>
             <!-- /col-md-6 -->
          </div>

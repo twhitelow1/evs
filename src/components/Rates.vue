@@ -32,10 +32,12 @@
                         </div>
 						<!-- List -->
                         <ul class="pricing-feature-list">
-                           <li>Add $5 per an extra child</li>
-                           <li>10h /day</li>
-                           <li>Bonus Activities</li>
-                           <li>Parent's Handbook</li>
+                           <li>Sitters starting at $35 per hour<br/> + $5 each additional child</li>
+                           <li>4 hour minimum</li>
+                           <li>$20 last minute booking fee (under 24 hours notice) </li>
+                           <li>We accept Venmo, credit cards, and cash or check payment</li>
+                           <li>*Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
+                           <li>Rates are subject to increases on holidays</li>                           
                         </ul>
                         <!-- Button-->
                         <div class="page-scroll">

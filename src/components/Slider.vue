@@ -30,7 +30,7 @@
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Your Kids Are On Vacation Too!</h1>
-               <p class="subtitle hidden-xs"> We coordinate fun activites for the kids to enjoy while visiting this beautiful valley.</p>
+               <p class="subtitle hidden-xs"> We coordinate fun indoor and outdoor activities for kids to enjoy while visiting this beautiful valley.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
                   <a class="btn" href="#activities">Activites</a>
@@ -47,8 +47,8 @@
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>CPR Certified & Insured</h1>
-               <p class="subtitle hidden-xs"> Need another point here </p>
+               <h1>Cpr certified, licensed, and insured childcare</h1>
+               <p class="subtitle hidden-xs"> Background checks are run on every sitter. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
                   <a class="btn" href="#contact">Contact us</a>

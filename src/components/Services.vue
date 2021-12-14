@@ -12,10 +12,8 @@
             <div class="row">
 			<!-- main text -->
                <div class="col-md-12 col-lg-7 text-center">
-                  <h3 class="text-center">The Best Childcare</h3>
-                  <p>Eagle Valley Siters will provide a stimulating and safe environment for children ages three months to twelve years. Eagle Valley Sitters will be the fun, affordable alternative daycare with the best quality you can find in town.
-                     We seek to stimulate and develop children’s problem-solving and reactive thinking skills through staff and child directed activities in our daily agenda. 
-                     Lectus placerat a ultricies a,interdum donec eget metus auguen u Fusce mollis imperdiet interdum donec eget metus auguen Lectus placerat a ultricies a,interdum donec eget metus auguen u Fusce mollis imperdiet interdum donec eget metus auguen unc vel lorem.
+                  <h3 class="text-center">Professional, Safe, and Reliable Childcare.</h3>
+                  <p>Eagle Valley Sitters provides a stimulating and safe environment for children ages 2 months to 12 years. Eagle Valley Sitters is a fun, dependable, and dynamic alternative daycare with the most qualified sitters in town. All sitters are cpr certified, background checked, and put through an extensive hiring process. 
                   </p>
                </div>
                <!-- /col-sm-12-->

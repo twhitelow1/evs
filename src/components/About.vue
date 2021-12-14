@@ -76,36 +76,48 @@
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
-                        <img src="img/testimonial1.jpg" alt="" class="img-responsive img-circle">
+                        <!-- <img src="img/testimonial1.jpg" alt="" class="img-responsive img-circle"> -->
                      </div>
                      <div class="col-md-10 col-md-offset-1 quote-test">
                         <!-- quote -->
-                        <p>Suspendis Lotam tempore optio lorem ispuet doloremque laboriosam quas, quos eaque molestias odio aut eius animi Suspendisse a elementum anteu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                        <small><i class="fa fa-user"></i>Joanna Vilken, TV Star</small>
+                        <p>Our sitter was extremely caring, helpful, and responsible with our 5 month old daughter. She was also flexible around our schedule and needs which made working with her a pleasure. We plan to book with Eagle Valley Sitters again next winter!</p>
+                        <small><i class="fa fa-user"></i>Jeremy M</small>
                      </div>
                   </blockquote>
                   <!-- testimonial 2-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
-                        <img src="img/testimonial2.jpg" alt="" class="img-responsive img-circle">
+                        <!-- <img src="img/testimonial2.jpg" alt="" class="img-responsive img-circle"> -->
                      </div>
                      <div class="col-md-10 col-md-offset-1  quote-test">
                         <!-- quote -->
-                        <p>Laudantium totam tempore optio lorem ispuet doloremque aut eius animi Suspendisse a elementum ante. Nunc aliquet tincidunt quam, non egestas arcu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                        <small><i class="fa fa-user"></i>John Cassady, Astronaut</small>
+                        <p>We used Eagle Valley Sitters to find a sitter for our 5 month old for an entire day while we were in town for a wedding. Our sitter was on time, kind, and caring. I felt my son was in good hands while we were away for such a long period of time. She was good at communicating with me and ensuring that we knew what was going on throughout the day. I would recommend Eagle Valley Sitters and would definitely book with them again!</p>
+                        <small><i class="fa fa-user"></i>Erica F</small>
                      </div>
                   </blockquote>
                   <!-- testimonial 3-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
-                        <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle">
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
                      </div>
                      <div class="col-md-10 col-md-offset-1 quote-test">
                         <!-- quote -->
-                        <p>Laboriosam quas, quos eaque lorem ispuet odio aut eius animi Suspendisse a elementum ante. Nunc aliquet tincidunt quam, non egestas arcu imperdiet et maecenas eu eros non nibh aliquet iaculis..</p>
-                        <small><i class="fa fa-user"></i>Maria Silveira, Model</small>
+                        <p>Our sitter was always reliable. She engaged my 9 year old and did fun activities with her. We both adored her. I highly recommend Eagle Valley Sitters.</p>
+                        <small><i class="fa fa-user"></i>Christine G</small>
+                     </div>
+                  </blockquote>
+                  <!-- testimonial 4-->
+                  <blockquote>
+                     <div class="col-md-4 col-lg-4 col-centered">
+                        <!-- testimonial image-->
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
+                     </div>
+                     <div class="col-md-10 col-md-offset-1 quote-test">
+                        <!-- quote -->
+                        <p>We used Eagle Valley Sitters to find our summer nanny for my two boys (age 7 and 9). Our sitter was active with the boys, taking them swimming and hiking. She was flexible and dependable and exactly the help we needed for the summer!</p>
+                        <small><i class="fa fa-user"></i>Renee B</small>
                      </div>
                   </blockquote>
                </div>

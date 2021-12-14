@@ -3,7 +3,6 @@
 ============================ */
 /*________  Blue________  */
 
-footer,
 .nav-pills>li>a,
 .nav.nav-tabs>li>a,
 .navbar-custom ul.nav ul.dropdown-menu,
@@ -23,6 +22,9 @@ footer,
 .fc .fc-button:not(:disabled), .fc a[data-navlink], .fc-event.fc-event-draggable, .fc-event[href]
 {background-color:#66bfc7;}
 
+footer
+{background-color:#daeaf9;}
+
  h1,
  a,
 .quote-test:before,
@@ -32,7 +34,8 @@ footer,
 #blog-page blockquote:before,
 #contact i,
 .latest-caption h4
-{color:#66bfc7;}
+{color:#66bfc7
+	;}
 
 #owl-about img,
 .team-item:hover img,
@@ -42,8 +45,8 @@ footer,
 
 /* SVG path */
 #deco-clouds path {
-	fill: #34327C;
-	stroke: #34327C;
+	fill: #daeaf9;
+	stroke: #daeaf9;
 }
 
 /*________  Pink________  */
@@ -128,15 +131,10 @@ footer a,
 .open>.dropdown-toggle.btn-primary:hover,
 .team-item .team-caption,
 .navbar-custom ul.nav ul.dropdown-menu li a,
-.panel-heading a,
-.panel-heading a:hover,
 .nav-pills .nav > li > a:focus ,
 .navbar-brand-centered,
-.navbar-header,
-.btn:hover,.btn:focus,
-.btn-primary:hover,
-.btn-primary:focus,
 .navbar-collapse,
+.navbar-header,
 .owl-prev:hover, .owl-next:hover,
 .back-to-top i,
 #instafeed .likes,
@@ -148,9 +146,24 @@ footer a,
 	background-color:#d4ebd7;
 	color: #cadcf2;
 }
+.btn:hover,.btn:focus,
+.btn-primary:hover,
+.btn-primary:focus,
+.panel-heading a,
+.panel-heading a:hover
+{
+	background-color:#d4ebd7;
+	color: #fff
+	;
+}
+
 .btn:hover {
-	background-color: #fdecf4	!important;
-	border-color: #fdecf4	!important;
+	background-color: #66bfc7
+	!important;
+	border-color: #66bfc7
+	!important;
+	color: #fbf3e5
+	!important;
 }
 
 .team-item img,
@@ -175,10 +188,7 @@ section.color-section,
 .comment,
 .table-striped,
 .dropdown-menu
-{background: #fcfbdd
-
-
-	;}
+{background: #fcfbdd	;}
 
 
 /* SVG Path */

@@ -5,7 +5,7 @@
     <slider></slider>
     <services></services>
     <callout></callout>
-	  <about></about>
+	 <about></about>
     <team></team>
 	  
       <!-- Parallax object -->
