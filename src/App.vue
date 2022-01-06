@@ -29,7 +29,7 @@
           <i class="fa fa-bars"></i>
           </button>
           <div class="navbar-brand-centered page-scroll">
-            <a href="#page-top"><img src="img/EVSLogo.png"  alt=""></a>
+            <a href="#page-top"><img src="img/EVSlogo.png"  alt=""></a>
           </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
