@@ -2735,7 +2735,8 @@ html{
          margin: 0;
     }
      .navbar-brand-centered img {
-        max-height: 65px;
+        max-height: 100px;
+        top: -10px;
     }
     /* Space between sections */
      .section-heading {
@@ -2917,6 +2918,14 @@ html{
      .input-group .form-control:first-child{
         border-radius:10px;
     }
+    .navbar-brand-centered img {
+        max-height: 80px;
+        position: absolute;
+        left: 10px;
+        right: 0;
+        top: 0;
+        margin: auto;
+   }
 }
 /************ max width 300px *************/
  @media (max-width: 300px) {
@@ -2953,11 +2962,11 @@ html{
          width:60px;
     }
      .navbar-brand-centered img {
-         max-height: 75px;
+         max-height: 80px;
          position: absolute;
          left: 10px;
          right: 0;
-         top: 50%;
+         top: -10px;
          margin: auto;
     }
      #navbar-brand-centered.collapse.in {
