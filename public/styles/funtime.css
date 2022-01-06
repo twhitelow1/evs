@@ -66,6 +66,7 @@ footer
 .pager li > a:focus,
 .navbar-brand-centered:hover,
 .navbar-brand-centered:focus,
+.navbar-toggle:active,
 .navbar-toggle:focus,
 .navbar-toggle:hover,
 .navbar-custom ul.nav li a:hover,
@@ -81,6 +82,9 @@ footer
 color: #66bfc7;
 }
 
+.fa{
+	color: #66bfc7;
+}
 .back-to-top i{
 	background-color: #77c3ca;
 	color: #f9fbef;
@@ -91,7 +95,7 @@ color: #66bfc7;
 	color: #77c3ca;
 }
 
-.navbar-toggle:active,
+
 .nav-pills>li.active>a,
 .nav.nav-pills > li > a:focus,
 .nav.nav-pills > li > a:hover,
