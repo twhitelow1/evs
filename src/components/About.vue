@@ -27,14 +27,9 @@
                <!-- text -->
                <div class="col-lg-7 col-sm-12">
                   <h3>Our Philosophy</h3>
-                  <p>Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
-                     sodales felis tiam non Doloreiur qui commolu ptatemp dolupta orem retibusam 
-                     andigen Ibu lum orci eget, viverra elit aliquam erat volut pat phas ellus ac sodales felis tiam non metus.
-                     Placerat a ultricies a, posuere lorem ipseut lincas psuiem t volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis a nibh fusce mollis imperdie tlorem ipuset campas fincas interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget usce mollis imperdiet interdum donec eget metus auguen unc vel lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis.
-                  </p>
-                  <p>Lorem ipsum dolor sit amet, lorem ipsuet lora consectetur adipisicing elit Illo itaque ipsum sit ha Bu lum orci eget, viverra elit aliquam erat volut pat phas ellus ac
-                     dolupta orem retibusam qui commolu les felis tiam non metus ali quam eros Pellentesque turpis lectus, placerat a ultricies a, posuere a nibh. Fusce mollis imperdiet interdum. 
-                  </p>
+                  <p>Eagle Valley Sitters is committed to creating a safe, nurturing, and fun environment for children of all ages. We are dedicated to providing professional, safe, and reliable childcare to Vail and it’s surrounding areas.</p>
+                  <p>We plan activities including but not limited to going to the park, hiking our beautiful trails, taking scenic gondola rides, or skiing to ensure sure your kids have a great time  during their vacation in the valley.</p>
+                  <p> All of our sitters are qualified, kind, and great with children. Each sitter is put through an extensive hiring process which includes interviewing, checking references, and running background checks.</p>
                </div>
                <!-- /col-lg-8 -->
             </div>
@@ -47,7 +42,7 @@
                      <i class="flaticon-person-1"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Infant Care</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <p>We take pride in our ability to to care for infants and toddlers.</p>
                      </div>
                   </div>              
                   <!-- item5 -->
@@ -55,7 +50,7 @@
                      <i class="flaticon-school"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Safety First</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <p>Safety is one of our top priorities. Our sitters are cpr certified, licensed, and insured. </p>
                      </div>
                   </div>
                   <!-- item6 -->
@@ -63,7 +58,7 @@
                      <i class="flaticon-music"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Activities</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                        <p>We love fun and we plan several types of activities for the little ones to enjoy</p>
                      </div>
                   </div>
                </div>
@@ -76,6 +71,21 @@
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
+                     </div>
+                     <div class="col-md-10 col-md-offset-1 quote-test">
+                        <!-- quote -->
+                        <p>Cat was an absolute savior when I was in Vail visiting. I was stressed from deadlines with school, and she was the perfect fit to babysit my two year old son. She was so professional giving me check ins and photos and had the most calming energy.
+                           I knew instantly that I could trust her with my little guy.  Plus, she has the  cutest dogs that that my son absolutely obsessed over! 
+                           I sent her a rather long list of Information regarding my kiddo in terms of naps, food, cues, disciplanry rules and such; She followed them perfectly, my son and I cannot wait to get back to Vail and see Cat again!
+                        </p>
+                        <small><i class="fa fa-user"></i>Renee B</small>
+                     </div>
+                  </blockquote>
+                  <!-- testimonial 2-->
+                  <blockquote>
+                     <div class="col-md-4 col-lg-4 col-centered">
+                        <!-- testimonial image-->
                         <!-- <img src="img/testimonial1.jpg" alt="" class="img-responsive img-circle"> -->
                      </div>
                      <div class="col-md-10 col-md-offset-1 quote-test">
@@ -84,7 +94,7 @@
                         <small><i class="fa fa-user"></i>Jeremy M</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 2-->
+                  <!-- testimonial 3-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -96,7 +106,7 @@
                         <small><i class="fa fa-user"></i>Erica F</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 3-->
+                  <!-- testimonial 4-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -108,7 +118,7 @@
                         <small><i class="fa fa-user"></i>Christine G</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 4-->
+                  <!-- testimonial 5-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -120,6 +130,7 @@
                         <small><i class="fa fa-user"></i>Renee B</small>
                      </div>
                   </blockquote>
+                  
                </div>
                <!--owl testimonials-->
             </div>

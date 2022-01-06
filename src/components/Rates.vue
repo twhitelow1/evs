@@ -7,7 +7,7 @@
             <path class="trianglePath1" d="M0 0 L50 100 L100 0 Z" />
          </svg>
          <div class="container">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg- col-lg-offset-2">
                <!-- Section heading -->
                <div class="section-heading">
                   <h2>Our Rates</h2>
@@ -17,7 +17,7 @@
                <div class="col-md-12 text-center">
 			   <!-- Price tables -->
                   <div class="pricing pricing-palden">
-                     <div class="pricing-item pricing-item-featured col-lg-4 col-md-4 col-sm-12">
+                     <div class="pricing-item pricing-item-featured justify-content-center col-lg-8 col-md-12 col-sm-12">
                         <div class="pricing-deco">
                            <svg class="pricing-deco-img" enable-background='new 0 0 300 100' height='100px' preserveAspectRatio='none' version='1.1' viewBox='0 0 300 100' width='300px' x='0px' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns='http://www.w3.org/2000/svg' y='0px'>
                               <path class='deco-layer deco-layer--1' d='M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729&#x000A;	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z' fill='#FFFFFF' opacity='0.6'></path>
@@ -37,8 +37,9 @@
                            <li>$20 last minute booking fee (under 24 hours notice) </li>
                            <li>We accept Venmo, credit cards, and cash or check payment</li>
                            <li>*Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
-                           <li>Rates are subject to increases on holidays</li>                           
-                        </ul>
+                           <li>*A 3.4% credit card processing fee will be added to all cc payments </li>
+                           <li>Rates are subject to increases on holidays</li>          
+                        </ul>  
                         <!-- Button-->
                         <div class="page-scroll">
                            <a class="btn" href="#contact">Contact us</a>

@@ -60,7 +60,6 @@ footer
 .owl-prev,.owl-next,
 .pager li>a:hover,
 .social-media a i,
-.back-to-top i:hover,
 .pagination>li>a:hover,
 .pagination>li>a:focus,
 .pager li > a:hover,
@@ -80,6 +79,16 @@ footer
 .fc .fc-list-event-dot
 {background-color:#ffeed2;
 color: #66bfc7;
+}
+
+.back-to-top i{
+	background-color: #77c3ca;
+	color: #f9fbef;
+}
+
+.back-to-top i:hover{
+	background-color: #d4ebd7;
+	color: #77c3ca;
 }
 
 .navbar-toggle:active,
@@ -137,11 +146,8 @@ footer a,
 .team-item .team-caption,
 .navbar-custom ul.nav ul.dropdown-menu li a,
 .nav-pills .nav > li > a:focus ,
-.navbar-brand-centered,
 .navbar-collapse,
-.navbar-header,
 .owl-prev:hover, .owl-next:hover,
-.back-to-top i,
 #instafeed .likes,
 .social-media a i:hover,
 .blog-tags a,
@@ -151,6 +157,14 @@ footer a,
 	background-color:#d4ebd7;
 	color: #cadcf2;
 }
+
+.navbar-header,.navbar-brand-centered
+{
+	background-color:#d4ebd7;
+	color: #cadcf2;
+	max-height: 80px;
+}
+
 .btn:hover,.btn:focus,
 .btn-primary:hover,
 .btn-primary:focus,
@@ -203,6 +217,3 @@ section.color-section,
 	stroke: #fcfbdd
 	;
 }
-
-
- 

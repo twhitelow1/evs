@@ -1322,7 +1322,7 @@ html{
 }
  footer p{
      text-align:center;
-     color:#fff;
+     color:#77c3ca;
 }
  footer h6{
     margin-top:30px;
@@ -1336,7 +1336,7 @@ html{
     line-height: 2em;
 }
  footer img{
-    max-width: 130px;
+    max-width: 150px;
 }
 /* Mailchimp message */
  #mce-error-response, #mce-success-response{
@@ -2945,19 +2945,19 @@ html{
         line-height: 40px;
     }
      .navbar-header {
-        height: 50px !important;
+        height: 75px;
     }
-     .navbar-brand-centered {
+     .navbar-brand-centered, .navbar-brand-centered:hover {
          background:none;
          height:50px;
          width:60px;
     }
      .navbar-brand-centered img {
-         max-height: 35px;
+         max-height: 75px;
          position: absolute;
-         left: 0;
+         left: 10px;
          right: 0;
-         top: 12%;
+         top: 50%;
          margin: auto;
     }
      #navbar-brand-centered.collapse.in {

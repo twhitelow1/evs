@@ -24,7 +24,7 @@
          <!-- Slide 2 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/kid2.jpg" class="ls-bg"  alt="Slide background"/>
+            <img src="img/playingbylake.jpg" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->
             <img src="img/bee.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->

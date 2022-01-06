@@ -4,9 +4,10 @@
     <!-- Page width 'Boxed' of 'Full' -->
     <slider></slider>
     <services></services>
-    <callout></callout>
+    
 	 <about></about>
-    <team></team>
+    <callout></callout>
+    <!-- <team></team> -->
 	  
       <!-- Parallax object -->
       <div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;"
@@ -41,7 +42,7 @@
 			<div class="well">
                <!-- Section heading -->
                <h3>Get more Information</h3>
-               <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit semprem Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et em explicabo tenetur lore apsuet!</p>
+               <!-- <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit semprem Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et em explicabo tenetur lore apsuet!</p> -->
                <!-- Button -->
 				   <div class="page-scroll">
 					  <a class="btn" href="#about">About Us</a>
@@ -66,23 +67,23 @@
                </div>
             </div>
             <!-- Contact -->
-            <div class="col-lg-4 text-center">
+            <div class="col-lg-12 text-center">
                <h4>Information</h4>  
                <!-- contact info -->			   
                <div class="contact-info">
-				   <p><i class="flaticon-back"></i><a href="mailto:cat@eaglevalleysitters.com">cat@eaglevalleysitters.com</a></p>
-					<p><i class="fa fa-phone margin-icon"></i>Call us at (970) </p>
+				   <p><i class="flaticon-back"></i><a href="mailto:cat@eaglevalleysitters.com">cat@eaglevalleysitters.com</a></p><br/>
+
+					<p><i class="fa fa-phone margin-icon"></i>Call us at (970) 341-9701 </p>
 				 </div>
                   <!-- address info -->
-                  <p>We are located at Imaginary Fun City, 304.</p>
                 <!-- Map -->
                 <!-- <div id="map-canvas"></div> -->
             </div>
             <!-- Contact Form -->
-            <div class="col-lg-7 col-lg-offset-1">
-               <h4>Write us</h4>
+            <!-- <div class="col-lg-7 col-lg-offset-1">
+               <h4>Write us</h4> -->
 				<!-- Form Starts -->
-               <div id="contact_form">
+               <!-- <div id="contact_form">
                   <div class="form-group">
                      <input type="text" name="name" class="form-control input-field" placeholder="Name" required="">                    
                      <input type="email" name="email" class="form-control input-field" placeholder="Email ID" required="">           
@@ -90,10 +91,10 @@
                   </div>
                   <textarea name="message" id="message" class="textarea-field form-control" rows="4" placeholder="Enter your message" required=""></textarea>
                   <button type="submit" id="submit_btn" value="Submit" class="btn center-block">Send message</button>
-               </div>
+               </div> -->
 			   <!-- Contact results -->
-               <div id="contact_results"></div>
-            </div>
+               <!-- <div id="contact_results"></div>
+            </div> -->
             <!--/Contact form -->
          </div>
          <!-- /container-->
