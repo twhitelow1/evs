@@ -37,7 +37,7 @@
                            <li>$20 last minute booking fee (under 24 hours notice) </li>
                            <li>We accept Venmo, credit cards, and cash or check payment</li>
                            <li>*Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
-                           <li>*A 3.4% credit card processing fee will be added to all cc payments </li>
+                           <li>*A 3.4% credit card processing fee will be added to all credit card payments </li>
                            <li>Rates are subject to increases on holidays</li>          
                         </ul>  
                         <!-- Button-->
