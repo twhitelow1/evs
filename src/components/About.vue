@@ -76,10 +76,10 @@
                      <div class="col-md-10 col-md-offset-1 quote-test">
                         <!-- quote -->
                         <p>Cat was an absolute savior when I was in Vail visiting. I was stressed from deadlines with school, and she was the perfect fit to babysit my two year old son. She was so professional giving me check ins and photos and had the most calming energy.
-                           I knew instantly that I could trust her with my little guy.  Plus, she has the  cutest dogs that that my son absolutely obsessed over! 
+                           I knew instantly that I could trust her with my little guy.
                            I sent her a rather long list of Information regarding my kiddo in terms of naps, food, cues, disciplanry rules and such; She followed them perfectly, my son and I cannot wait to get back to Vail and see Cat again!
                         </p>
-                        <small><i class="fa fa-user"></i>Renee B</small>
+                        <small><i class="fa fa-user"></i></small>
                      </div>
                   </blockquote>
                   <!-- testimonial 2-->
