@@ -1,7 +1,7 @@
 <template>
    <div class="ContactForm">
       <!-- Contact Form -->
-            <div class="col-lg-7 col-lg-offset-1">
+            <div class="col-lg-7 col-lg-offset-2">
                <h4>Write us</h4> 
 				      <!-- Form Starts -->
                 <div id="contact_form">
