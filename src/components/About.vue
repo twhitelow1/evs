@@ -17,17 +17,14 @@
                         <img class="img-responsive" src="img/teachingkid.jpeg" alt="">
                      </div>
                      <div class="item">
-                        <img class="img-responsive" src="img/teachingkid.jpeg" alt="">
-                     </div>
-                     <div class="item">
-                        <img class="img-responsive" src="img/teachingkid.jpeg" alt="">
+                        <img class="img-responsive" src="img/babysitterwithkid.jpeg" alt="">
                      </div>
                   </div>
                </div>
                <!-- text -->
                <div class="col-lg-7 col-sm-12">
                   <h3>Our Philosophy</h3>
-                  <p>Eagle Valley Sitters is committed to creating a safe, nurturing, and fun environment for children of all ages. We are dedicated to providing professional, safe, and reliable childcare to Vail and it’s surrounding areas.</p>
+                  <p>Eagle Valley Sitters is committed to creating a nurturing and fun environment for children of all ages. We are dedicated to providing professional, safe, and reliable childcare to Vail and it’s surrounding areas.</p>
                   <p>We plan activities including, but not limited to going to the park, hiking our beautiful trails, taking scenic gondola rides, or skiing to ensure sure your kids have a great time  during their vacation in the valley.</p>
                   <p> All of our sitters are qualified, kind, and great with children. Each sitter is put through an extensive hiring process which includes interviewing, checking references, and running background checks.</p>
                </div>

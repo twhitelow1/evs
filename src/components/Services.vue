@@ -13,7 +13,7 @@
 			<!-- main text -->
                <div class="col-md-12 col-lg-7 text-center">
                   <h3 class="text-center">Professional, Safe, and Reliable Childcare.</h3>
-                  <p>Eagle Valley Sitters provides a stimulating and safe environment for children ages 2 months to 12 years. Eagle Valley Sitters is a fun, dependable, and dynamic alternative daycare with qualified and experienced babysitters. All sitters are CPR certified, background checked, and put through an extensive hiring process. 
+                  <p>Eagle Valley Sitters provides a stimulating and safe environment for children ages 2 months to 12 years. Eagle Valley Sitters offers fun, dependable, and dynamic alternative childcare with qualified and experienced babysitters. All sitters are CPR certified, background checked, and put through an extensive hiring process. 
                   </p>
                </div>
                <!-- /col-sm-12-->
