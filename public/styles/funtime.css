@@ -9,7 +9,6 @@
 .pricing-palden .pricing-deco,
 .panel-heading a.collapsed,
 .service h4,
-.team-item:hover .team-caption,
 .gallery-thumb .link,
 .pagination>li>a, .pagination>li>span,
 .breadcrumb,
@@ -20,7 +19,15 @@
 .fc-direction-ltr .fc-button-group>.fc-button:not(:last-child),
 .fc-button.fc-button-primary,
 .fc .fc-button:not(:disabled), .fc a[data-navlink], .fc-event.fc-event-draggable, .fc-event[href]
-{background-color:#66bfc7;}
+{background-color:#66bfc7;
+	
+}
+
+.team-item:hover .team-caption
+{
+	background-color: #66bfc7;
+	color: white;
+}
 
 footer
 {background-color:#daeaf9;}
@@ -147,7 +154,6 @@ footer a,
 .service:hover h4,
 .open>.dropdown-toggle.btn-primary:focus,
 .open>.dropdown-toggle.btn-primary:hover,
-.team-item .team-caption,
 .navbar-custom ul.nav ul.dropdown-menu li a,
 .nav-pills .nav > li > a:focus ,
 .navbar-collapse,
@@ -160,6 +166,12 @@ footer a,
 {
 	background-color:#d4ebd7;
 	color: #cadcf2;
+}
+
+.team-item .team-caption
+{
+	background-color:#66bec6;
+	color: #66bec6;
 }
 
 .navbar-header,.navbar-brand-centered

@@ -26,9 +26,9 @@
                      Placerat a ultricies a, posuere a nibh fusce mollis imperdie tlorem ipuset campas fincas interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget usce mollis imperdiet interdum donec eget metus auguen unc vel lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis.
                   </p>
                </div> -->
-               <div class="col-lg-12 col-md-12 align-center res-margin">
+               <!-- <div class="col-lg-12 col-md-12 align-center res-margin">
                   <h3>Meet our Qualified Staff</h3>
-               </div>
+               </div> -->
             </div>  
             <!-- Team Carousel-->
             <div id="owl-team" class="owl-carousel">
@@ -38,7 +38,7 @@
                   <div class="team-item">
                      <img src="img/team/cat-sitter.jpg" alt=""/>
                      <div class="team-caption">
-                        <h5 class="staff-header">Cat</h5>
+                        <h5 class="text-light">Cat</h5>
                         <p>Founder/Sitter</p>
                      </div>
                   </div>
