@@ -15,28 +15,31 @@
             </div>
             <!-- Intro text -->
             <div class="row team">
-               <div class="col-lg-5 col-md-5 res-margin">
+               <!-- <div class="col-lg-5 col-md-5 res-margin"> -->
                   <!-- Intro image -->
-                  <img src="img/teammain.jpg" class="center-block img-responsive img-curved" alt=""/>
+                  <!-- <img src="img/teammain.jpg" class="center-block img-responsive img-curved" alt=""/>
                </div>
-               <div class="col-lg-7 col-md-7">
-                  <h3>Meet our Qualified Staff</h3>
-                  <p>Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
+               <div class="col-lg-7 col-md-7"> --->
+                  <!-- <p>Ibu lum orci eget, viverra elit. Aliquam erat volut pat phas ellus ac
                      sodales felis tiam non Doloreiur qui commolu ptatemp dolupta orem retibusam 
                      andigen Ibu lum orci eget, viverra elit aliquam erat volut pat phas ellus ac sodales felis tiam non metus.
                      Placerat a ultricies a, posuere a nibh fusce mollis imperdie tlorem ipuset campas fincas interdum donec eget metus auguen unc vel mauris ultricies, vest ibulum orci eget usce mollis imperdiet interdum donec eget metus auguen unc vel lorem ispuet Ibu lum orci eget, viverra elit liquam erat volut pat phas ellus ac sodales Lorem ipsum dolor sit amet, consectetur adipisicing elit uasi quidem minus id omnis.
                   </p>
+               </div> -->
+               <div class="col-lg-12 col-md-12 align-center res-margin">
+                  <h3>Meet our Qualified Staff</h3>
                </div>
-            </div>
+            </div>  
             <!-- Team Carousel-->
             <div id="owl-team" class="owl-carousel">
+               
                <div class="col-lg-12">
                   <!-- member 1-->
                   <div class="team-item">
-                     <img src="img/team1.jpg" alt=""/>
+                     <img src="img/team/cat-sitter.jpg" alt=""/>
                      <div class="team-caption">
-                        <h5 class="text-light">Jane Doe</h5>
-                        <p>Founder</p>
+                        <h5 class="staff-header">Cat</h5>
+                        <p>Founder/Sitter</p>
                      </div>
                   </div>
                   <!-- /team-item-->
@@ -45,10 +48,10 @@
                <div class="col-lg-12">
                   <!-- member 2-->
                   <div class="team-item">
-                     <img src="img/team2.jpg" alt=""/>
+                     <img src="img/team/han-sitter.jpg" alt=""/>
                      <div class="team-caption">
-                        <h5 class="text-light">Mario Salles</h5>
-                        <p>Teacher</p>
+                        <h5 class="text-light">Hannah</h5>
+                        <p>Sitter</p>
                      </div>
                   </div>
                   <!-- /team-item-->
@@ -57,10 +60,10 @@
                <div class="col-lg-12">
                   <!-- member 3-->
                   <div class="team-item">
-                     <img src="img/team3.jpg" alt=""/>
+                     <img src="img/team/sel-sitter.png" alt=""/>
                      <div class="team-caption">
-                        <h5 class="text-light">Julia Stan</h5>
-                        <p>Teacher</p>
+                        <h5 class="text-light">Selena</h5>
+                        <p>Sitter</p>
                      </div>
                   </div>
                   <!-- /team-item-->
@@ -69,10 +72,10 @@
                <div class="col-lg-12">
                   <!-- member 3-->
                   <div class="team-item">
-                     <img src="img/team4.jpg" alt=""/>
+                     <img src="img/team/Ima-sitter.jpg" alt=""/>
                      <div class="team-caption">
-                        <h5 class="text-light">Mary John</h5>
-                        <p>Caretaker</p>
+                        <h5 class="text-light">Imali</h5>
+                        <p>Sitter</p>
                      </div>
                   </div>
                   <!-- /team-item-->

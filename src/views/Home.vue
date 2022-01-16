@@ -4,8 +4,8 @@
     <!-- Page width 'Boxed' of 'Full' -->
     <slider></slider>
     <services></services>
-    
 	 <about></about>
+    <team></team>
     <callout></callout>
     <!-- <team></team> -->
 	  
