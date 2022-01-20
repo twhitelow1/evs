@@ -57,7 +57,7 @@
             <div class="col-md-6 col-sm-6 text-center">
 			      <div class="well">
                   <h3>Book A Sitter</h3>
-                  <p>Let Eagle Valley Sitters find you the perfect babysitter to meet your needs during your stay. Sitters are available to book for daytime, evenings, holidays, and weekends. We are open year round.</p>
+                  <p>Let us find you the perfect babysitter to meet your needs during your stay. Sitters are available to book for daytime, evenings, holidays, and weekends. We are open year round.</p>
                   <div class="page-scroll">
                      <!-- Button-->
                      <a class="btn" href="#contact">Contact us</a>
