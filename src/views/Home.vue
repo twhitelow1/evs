@@ -5,7 +5,7 @@
     <slider></slider>
     <services></services>
 	 <about></about>
-    <team></team>
+    <!-- <team></team> -->
     <callout></callout>
     <!-- <team></team> -->
 	  

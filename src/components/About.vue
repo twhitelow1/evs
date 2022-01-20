@@ -47,7 +47,7 @@
                      <i class="flaticon-school"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Safety First</h5>
-                        <p>Safety is one of our top priorities. Our sitters are CPR certified, licensed, and insured. </p>
+                        <p>Safety is one of our top priorities. Our sitters are insured, CPR certified, and background checked. </p>
                      </div>
                   </div>
                   <!-- item6 -->
