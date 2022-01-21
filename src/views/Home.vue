@@ -1,14 +1,13 @@
 
 <template>
   <div class="home">
-    <!-- Page width 'Boxed' of 'Full' -->
-    <slider></slider>
-    <services></services>
-	 <about></about>
-    <!-- <team></team> -->
-    <callout></callout>
-    <!-- <team></team> -->
-	  
+      <!-- Page width 'Boxed' of 'Full' -->
+      <slider></slider>
+      <services></services>
+      <about></about>
+      <team></team>
+      <callout></callout>
+      <!-- <team></team> --> 
       <!-- Parallax object -->
       <div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;"
          data-100="transform:translatey(40%);"

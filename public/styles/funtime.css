@@ -64,7 +64,6 @@ footer
 .owl-theme .owl-dots .owl-dot span:before,
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span,
-.owl-prev,.owl-next,
 .pager li>a:hover,
 .social-media a i,
 .pagination>li>a:hover,
@@ -87,6 +86,10 @@ footer
 .fc .fc-list-event-dot
 {background-color:#ffeed2;
 color: #66bfc7;
+}
+
+.owl-prev,.owl-next{
+	background-color:#66bfc7;
 }
 
 .fa{
