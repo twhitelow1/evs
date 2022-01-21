@@ -160,6 +160,9 @@ export default {
   created() {
     window.addEventListener("resize", this.handleResize);
   },
+  beforeMount() {
+    this.window.width = window.innerWidth;
+  },
   destroyed() {
     window.removeEventListener("resize", this.handleResize);
   },
