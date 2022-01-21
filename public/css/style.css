@@ -2699,7 +2699,7 @@ html{
      .navbar-collapse.collapse.in {
          display:block!important;
          padding-bottom: 40px;
-         max-height:200px!important;
+         max-height:300px !important;
          overflow-y:scroll!important;
          overflow-x:hidden!important;
     }
@@ -2826,6 +2826,9 @@ html{
 }
 /************ max width 480px *************/
  @media (max-width: 480px) {
+    /* navbar-collapse */
+   
+
     /* slider */
      #layerslider{
         height:190px!important;
