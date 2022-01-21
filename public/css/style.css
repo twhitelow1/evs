@@ -792,7 +792,7 @@ html{
  .team-item img {
      padding:10px;
      max-width: 100%;
-     border-radius:50%;
+     border-radius:0;
      box-shadow: 6px 6px 0px rgba(103, 102, 102, 0.2);
      transition: all 0.3s;
      border: 10px solid;
