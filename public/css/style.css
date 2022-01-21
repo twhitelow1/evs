@@ -2741,8 +2741,8 @@ html{
          margin: 0;
     }
      .navbar-brand-centered img {
-        max-height: 100px;
-        top: -10px;
+        max-height: 80px;
+        top: 0px;
     }
     /* Space between sections */
      .section-heading {
@@ -2925,11 +2925,11 @@ html{
         border-radius:10px;
     }
     .navbar-brand-centered img {
-        max-height: 80px;
+        max-height: 50px;
         position: absolute;
-        left: 10px;
+        left: 5px;
         right: 0;
-        top: 0;
+        top: 15px;
         margin: auto;
    }
 }
@@ -2968,11 +2968,11 @@ html{
          width:60px;
     }
      .navbar-brand-centered img {
-         max-height: 80px;
+         max-height: 50px;
          position: absolute;
          left: 10px;
          right: 0;
-         top: -10px;
+         top: 5px;
          margin: auto;
     }
      #navbar-brand-centered.collapse.in {

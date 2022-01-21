@@ -29,7 +29,8 @@
           <i class="fa fa-bars"></i>
           </button>
           <div class="navbar-brand-centered page-scroll">
-            <a href="#page-top"><img src="img/EVSlogo.png"  alt=""></a>
+            <a v-if="window.width > 990" href="#page-top"><img src="img/EVSlogo.png"  alt=""></a>
+            <a v-if="window.width < 990" href="#page-top"><img src="img/evs-logo-landscape.png"  alt=""></a>
           </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -150,8 +151,22 @@ export default {
   components: {},
   data: function () {
     return {
+      window: {
+        width: 0,
+      },
       comingsoon: false,
     };
+  },
+  created() {
+    window.addEventListener("resize", this.handleResize);
+  },
+  destroyed() {
+    window.removeEventListener("resize", this.handleResize);
+  },
+  methods: {
+    handleResize() {
+      this.window.width = window.innerWidth;
+    },
   },
 };
 </script>
