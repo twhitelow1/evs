@@ -69,13 +69,12 @@ html{
      transform: rotate(3deg);
 }
  h2:before {
-     content: "\f11a";
-     font-family: 'Flaticon';
-     font-weight: normal;
+     content: url(../img/evs-kids.png);
      position: absolute;
      top: -0.6em;
-     left:45%;
+     left:15%;
      font-size: 65px;
+     width: 200px;
 }
  section:nth-child(odd) h2 {
     transform: rotate(-3deg);
