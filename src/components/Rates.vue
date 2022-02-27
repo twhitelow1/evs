@@ -38,6 +38,7 @@
                            <li>We accept Venmo, credit cards, and cash or check payment</li>
                            <li>*Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
                            <li>*A 3.4% credit card processing fee will be added to all credit card payments </li>
+                           <li>There is a 48 hour cancellation policy</li>
                            <li>Rates are subject to increases on holidays</li>          
                         </ul>  
                         <!-- Button-->
