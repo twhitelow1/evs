@@ -1258,9 +1258,9 @@ html{
 }
  .pricing-palden .pricing-feature-list {
      margin: 0;
-     padding: 5px;
-     list-style: none;
-     text-align: center;
+     padding: 35px;
+     list-style: disc;
+     text-align: left;
 }
  .pricing-palden .pricing-feature {
     padding: 1em 0;

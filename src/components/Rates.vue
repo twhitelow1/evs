@@ -25,21 +25,28 @@
                               <path class='deco-layer deco-layer--3' d='M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716&#x000A;	H42.401L43.415,98.342z' fill='#FFFFFF' opacity='0.7'></path>
                               <path class='deco-layer deco-layer--4' d='M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428&#x000A;	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z' fill='#FFFFFF'></path>
                            </svg>
-                           <div class="pricing-price"><span class="pricing-currency">$</span>35
-                              <span class="pricing-period">/ Hour</span>
+                           <div class="pricing-price"><span class="pricing-currency"></span>
+                              <!-- <span class="pricing-period">/ Hour</span> -->
                            </div>
-                           <h3 class="pricing-title">Hourly</h3>
+                           <h3 class="pricing-title">SUMMER BABYSITTING RATES</h3>
+                           <h4 class="pricing-title"> May 20, 2022- October 15, 2022 </h4>
                         </div>
 						<!-- List -->
+                  <h3>Terms</h3>
                         <ul class="pricing-feature-list">
-                           <li>Sitters starting at $35 per hour<br/> + $5 each additional child</li>
                            <li>4 hour minimum</li>
                            <li>$20 last minute booking fee (under 24 hours notice) </li>
                            <li>We accept Venmo, credit cards, and cash or check payment</li>
                            <li>*Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
                            <li>*A 3.4% credit card processing fee will be added to all credit card payments </li>
                            <li>Cancellations made within 48 hours of your reservation start time incur a full charge.</li>
-                           <li>Rates are subject to increases on holidays</li>          
+                           <li>Rates are subject to increases on holidays</li> 
+                        </ul>
+                        <h3>Pricing</h3>
+                        <ul class="pricing-feature-list">
+                           <li>$23/ hr +2 each additional child paid directly to your sitter (cash, check, venmo, zelle)</li>
+                           <li>$11 per hour agency fee, plus $11 per day booking fee charged to the card on file </li>
+                           <li>Overnight care- $140 in addition to the standard babysitting fees</li>         
                         </ul>  
                         <!-- Button-->
                         <div class="page-scroll">
