@@ -38,7 +38,11 @@
                       <input type="text" name="mname" class="form-control input-field" placeholder="Middle Name" required="">                              
                       <input type="text" name="lname" class="form-control input-field" placeholder="Last Name" required="">
                       <input type="email" name="email" class="form-control input-field" placeholder="Email" required="">           
-                      <input type="text" name="subject" class="form-control input-field" placeholder="Subject" required="">                     
+                    </div>
+                    <div class="form-group">
+                      <h5>Questions</h5>
+                      <h6>Describe your babysitting and childcare related experience</h6>
+                      <textarea name="q1" id="q1" class="textarea-field form-control" rows="4" placeholder="" required=""></textarea>    
                     </div>
                     <textarea name="message" id="message" class="textarea-field form-control" rows="4" placeholder="Enter your message" required=""></textarea>
                     <button type="submit" id="submit_btn" value="Submit" class="btn center-block">Send message</button>
