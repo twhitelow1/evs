@@ -49,7 +49,7 @@
                            <li>1 Child: $23</li>
                            <li>2 Children: $25</li>
                            <li>3 Children: $27</li>
-                           <li>4+ Children: = 2 Sitters required</li>
+                           <li>4 Children: = $29</li>
                         </ul>
                         <h4>Agency Fees</h4>
                         <i>Will be chared to the card on file</i>
