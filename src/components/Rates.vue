@@ -36,7 +36,8 @@
                         <ul class="pricing-feature-list">
                            <li>Minimum 4 hour booking</li>
                            <li>$20 last minute booking fee (under 24 hours notice) </li>
-                           <li>We accept Venmo, credit cards, and cash or check payment</li>
+                           <li>We accept Venmo, credit cards, and cash</li>
+                           <li>Agency fees are charged to the card on file or payable via Venmo @eaglevalleysitters</li>
                            <li>Please note that you are responsible for any parking fees your sitter may incur, and a $5 valet tip if applicable</li>
                            <li>A 3.4% credit card processing fee will be added to all credit card payments </li>
                            <li>Cancellations made within 48 hours of your reservation start time incur a full charge.</li>
@@ -52,7 +53,7 @@
                            <li>4 Children: = $29</li>
                         </ul>
                         <h4>Agency Fees</h4>
-                        <i>Will be chared to the card on file</i>
+                        <i>Will be charged to the card on file</i>
                         <ul class="pricing-feature-list">
                            <li>$11 per hour agency fee, plus $11 per day booking fee charged to the card on file </li>        
                         </ul>  
