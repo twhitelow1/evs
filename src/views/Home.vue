@@ -15,8 +15,7 @@
          <!-- Image -->
          <img src="img/parallaxobject1.png" alt="">
       </div>
-      <activities></activities>
-	  
+      <activities></activities> 
       <!-- Parallax object -->
       <!-- <div class="parallax-object2 hidden-sm hidden-xs" data-0="opacity:1;"
          data-start="margin-top:40%"
