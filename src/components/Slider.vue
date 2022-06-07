@@ -30,7 +30,7 @@
             <!-- Text -->
             <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Now Offering Pet Sitting!</h1>
-               <p class="subtitle hidden-xs"> Let us watch over your fur babies.</p>
+               <p class="subtitle hidden-xs"> We provide hourly pet sitting, overnight pet sitting, drop-in care, and dog walks. Let us watch over your fur babies.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
                   <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter Today!</a>
