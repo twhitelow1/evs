@@ -15,7 +15,7 @@
                <p class="subtitle hidden-xs"> Our sitters have completed background checks and provide CPR certified, licensed, and insured childcare. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter</a>
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter Today!</a>
                </div>
             </div>
             <!-- Parallax Image -->
