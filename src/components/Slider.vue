@@ -15,7 +15,7 @@
                <p class="subtitle hidden-xs"> Learn more about our child care services in Eagle County</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="#contact">Contact us</a>
+                  <a class="btn" href="#about">About us</a>
                </div>
             </div>
             <!-- Parallax Image -->
@@ -51,7 +51,7 @@
                <p class="subtitle hidden-xs"> Background checks are run on every sitter. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="#contact">Contact us</a>
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book Now!</a>
                </div>
             </div>
             <!-- Parallax Image -->
