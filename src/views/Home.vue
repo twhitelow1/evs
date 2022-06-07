@@ -39,8 +39,8 @@
             <div class="col-lg-6 col-lg-offset-6 col-sm-6">
 			<div class="well">
                <!-- Section heading -->
-               <h3>Join Our Team</h3>
-               <p>Are you an experienced babysitter looking to join our team? Click the button below to apply.</p>
+               <h3>We're Hiring!</h3>
+               <p>Are you an experienced babysitter looking to join our team?<br/>Click the button below to apply.</p>
                <!-- Button -->
 				   <div class="page-scroll">
 					  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply Today</a>

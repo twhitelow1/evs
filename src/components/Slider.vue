@@ -20,8 +20,25 @@
             </div>
             <!-- Parallax Image -->
             <img src="img/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+         </div><!-- Slide 2 -->
+         <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
+            <!-- Background image -->
+            <img src="img/petsitting.jpg" class="ls-bg"  alt="Slide background"/>
+            <!-- Parallax Image -->z
+            <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
+            <!-- Text -->
+            <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
+               <h1>Now Offering Pet Sitting!</h1>
+               <p class="subtitle hidden-xs"> Let's us watch over your fur babies.</p>
+               <!-- Button -->
+               <div class="page-scroll hidden-xs">
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter Today!</a>
+               </div>
+            </div>
+            <!-- Parallax Image -->
+            <img src="img/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
-         <!-- Slide 2 -->
+         <!-- Slide 3 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
             <img src="img/playingbylake.jpg" class="ls-bg"  alt="Slide background"/>
@@ -39,7 +56,7 @@
             <!-- Parallax Image -->
             <img src="img/star.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
-         <!-- Slide 3 -->
+         <!-- Slide 4 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
             <img src="img/layout/playinginsnow.jpg" class="ls-bg"  alt="Slide background"/>
