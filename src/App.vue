@@ -40,9 +40,10 @@
                 <li><a href="#page-top">Home</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#about">About</a></li>
-                <!-- <li><a href="#team">Team</a></li> -->
+                <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book</a></li> 
               </ul>
               <ul class="nav navbar-nav page-scroll navbar-right">               
+                <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply</a></li>
                 <li><a href="#activities">Activities</a></li>
                 <!-- <li><a href="#application">Apply</a></li>  -->
                 <!-- Dropdown -->

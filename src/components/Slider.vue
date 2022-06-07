@@ -47,7 +47,7 @@
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>Join Our Team</h1>
+               <h1>We're Hiring!</h1>
                <p class="subtitle hidden-xs"> We are looking for qualified sitters, please click the button below to apply. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
