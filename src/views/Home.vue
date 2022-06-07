@@ -40,7 +40,7 @@
 			<div class="well">
                <!-- Section heading -->
                <h3>Join Our Team</h3>
-               <p>Are you a childcare professional looking to work with our clients?</p>
+               <p>Are you an experienced babysitter looking to join our team? Click the button below to apply.</p>
                <!-- Button -->
 				   <div class="page-scroll">
 					  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply Today</a>
