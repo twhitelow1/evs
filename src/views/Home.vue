@@ -39,11 +39,11 @@
             <div class="col-lg-6 col-lg-offset-6 col-sm-6">
 			<div class="well">
                <!-- Section heading -->
-               <h3>Get more Information</h3>
-               <!-- <p>Lorem av ipsum dolor sit amet, dorem ipsuem ore consectetur adipisicing elit semprem Ratione, voluptatem, dolorem animi nisi autem blanditiis enim culpa reiciendis et em explicabo tenetur lore apsuet!</p> -->
+               <h3>Join Our Team</h3>
+               <p>Are you a childcare professional looking to work with our clients?</p>
                <!-- Button -->
 				   <div class="page-scroll">
-					  <a class="btn" href="#about">About Us</a>
+					  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply Today</a>
 				   </div>
 			     <!--/page-scroll -->
 			   </div>
