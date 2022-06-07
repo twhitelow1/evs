@@ -59,7 +59,7 @@
                         </ul>  
                         <!-- Button-->
                         <div class="page-scroll">
-                           <a class="btn" href="#contact">Contact us</a>
+                           <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book Today</a>
                         </div>
                         <!--/page-scroll-->
                      </div>

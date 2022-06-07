@@ -60,7 +60,7 @@
                   <p>Let us find you the perfect babysitter to meet your needs during your stay. Sitters are available to book for daytime, evenings, holidays, and weekends. We are open year round.</p>
                   <div class="page-scroll">
                      <!-- Button-->
-                     <a class="btn" href="#contact">Contact us</a>
+                     <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter</a>
                   </div>
 			         <!-- /page-scroll -->
 			      </div>
