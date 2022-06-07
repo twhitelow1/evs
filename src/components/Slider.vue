@@ -12,10 +12,10 @@
             <!-- Text -->
             <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Welcome to Eagle Valley Sitters</h1>
-               <p class="subtitle hidden-xs"> Learn more about our child care services in Eagle County</p>
+               <p class="subtitle hidden-xs"> Our sitters are CPR certified, licensed, and insured childcare.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="#about">About us</a>
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter</a>
                </div>
             </div>
             <!-- Parallax Image -->
@@ -47,11 +47,11 @@
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>Cpr certified, licensed, and insured childcare</h1>
-               <p class="subtitle hidden-xs"> Background checks are run on every sitter. </p>
+               <h1>Join Our Team</h1>
+               <p class="subtitle hidden-xs"> We are looking for qualified sitters, please click the button below to apply. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book Now!</a>
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply Today!</a>
                </div>
             </div>
             <!-- Parallax Image -->
