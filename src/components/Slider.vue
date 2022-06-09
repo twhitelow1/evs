@@ -33,7 +33,8 @@
                <p class="subtitle hidden-xs"> We provide hourly pet sitting, overnight pet sitting, drop-in care, and dog walks. Let us watch over your fur babies.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
-                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book A Sitter Today!</a>
+                  <a class="btn" href="#pets">Learn More!</a>
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book Today!</a>
                </div>
             </div>
             <!-- Parallax Image -->

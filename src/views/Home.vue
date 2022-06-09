@@ -4,10 +4,10 @@
       <!-- Page width 'Boxed' of 'Full' -->
       <slider></slider>
       <services></services>
+      <pets></pets>
       <about></about>
       <!-- <team></team> -->
       <callout></callout>
-      <!-- <team></team> --> 
       <!-- Parallax object -->
       <div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;"
          data-100="transform:translatey(40%);"
@@ -40,7 +40,7 @@
 			<div class="well">
                <!-- Section heading -->
                <h3>We're Hiring!</h3>
-               <p>Are you an experienced babysitter looking to join our team?<br/>Click the button below to apply.</p>
+               <p>Are you an experienced babysitter or childcare professional looking to join our team?<br/>Click the button below to apply.</p>
                <!-- Button -->
 				   <div class="page-scroll">
 					  <a class="btn" href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply Today</a>
@@ -99,6 +99,7 @@ import Team from "../components/Team.vue";
 import Activities from "../components/Activities.vue";
 import Rates from "../components/Rates.vue";
 import ContactForm from "../components/ContactForm.vue";
+import Pets from "../components/Pets.vue";
 
 export default {
   data: function () {
@@ -111,7 +112,7 @@ export default {
     Services,
     Callout,
     About,
-    Team,
+    Pets,
     Activities,
     Rates,
     ContactForm,
