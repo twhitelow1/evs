@@ -49,7 +49,7 @@
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Your Kids Are On Vacation Too!</h1>
-               <p class="subtitle hidden-xs"> We coordinate fun indoor and outdoor activities for kids to enjoy while visiting this beautiful valley.</p>
+               <p class="subtitle hidden-xs"> We coordinate fun indoor and outdoor activities for kids to enjoy while visiting the high country of Colorado.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
                   <a class="btn" href="#activities">Activites</a>
