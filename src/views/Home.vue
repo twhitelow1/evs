@@ -70,8 +70,9 @@
                <!-- contact info -->			   
                <div class="contact-info">
 				   <p><i class="flaticon-back"></i><a href="mailto:cat@eaglevalleysitters.com">cat@eaglevalleysitters.com</a></p><br/>
-
-					<p><i class="fa fa-phone margin-icon"></i>Call us at (970) 341-9701 </p>
+					<p><i class="fa fa-phone margin-icon"></i>Call us at (970) 341-9701 during business hours of 9AM - 4PM.</p><br/>
+               <p>To book a sitter, please book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a> and fill out our client registration form</p><br/>
+                  <p>For questions and general inquiries, type your message below.</p><br/>
                <ContactForm></ContactForm>
 				 </div>
                   <!-- address info -->
