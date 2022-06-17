@@ -71,6 +71,45 @@
                      </div>
                      <div class="col-md-10 col-md-offset-1 quote-test">
                         <!-- quote -->
+                        <p>Excellent experience. Prompt, attentive, and consistent communication. Made it easier for us as parents to relax and enjoy our stay at The Arrabelle. They showed up right to our room and we felt very comfortable each night. Highly recommend.
+                        </p>
+                        <small><i class="fa fa-user">Steve O</i></small>
+                     </div>
+                  </blockquote>
+                  <!-- testimonial 2-->
+                  <blockquote>
+                     <div class="col-md-4 col-lg-4 col-centered">
+                        <!-- testimonial image-->
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
+                     </div>
+                     <div class="col-md-10 col-md-offset-1 quote-test">
+                        <!-- quote -->
+                        <p>My wife and I finally got a chance to ski together on our recent trip to Vail, and that's due to Cat and her team - thanks so much for making that happen, and keeping our daughter engaged with caring, competent sitters. 
+                        </p>
+                        <small><i class="fa fa-user">Roddy R.</i></small>
+                     </div>
+                  </blockquote>
+                  <!-- testimonial 3-->
+                  <blockquote>
+                     <div class="col-md-4 col-lg-4 col-centered">
+                        <!-- testimonial image-->
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
+                     </div>
+                     <div class="col-md-10 col-md-offset-1 quote-test">
+                        <!-- quote -->
+                        <p>Super pleased with Eagle Valley Sitters! I highly recommend their service. Very responsible and made our life easy in Beaver Creek. 
+                        </p>
+                        <small><i class="fa fa-user">Jeremy Duck</i></small>
+                     </div>
+                  </blockquote>
+                  <!-- testimonial 4-->
+                  <blockquote>
+                     <div class="col-md-4 col-lg-4 col-centered">
+                        <!-- testimonial image-->
+                        <!-- <img src="img/testimonial3.jpg" alt="" class="img-responsive img-circle"> -->
+                     </div>
+                     <div class="col-md-10 col-md-offset-1 quote-test">
+                        <!-- quote -->
                         <p>Cat was an absolute savior when I was in Vail visiting. I was stressed from deadlines with school, and she was the perfect fit to babysit my two year old son. She was so professional giving me check ins and photos and had the most calming energy.
                            I knew instantly that I could trust her with my little guy.
                            I sent her a rather long list of Information regarding my kiddo in terms of naps, food, cues, disciplanry rules and such; She followed them perfectly, my son and I cannot wait to get back to Vail and see Cat again!
@@ -78,7 +117,7 @@
                         <small><i class="fa fa-user">Niomi</i></small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 2-->
+                  <!-- testimonial 5-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -90,7 +129,7 @@
                         <small><i class="fa fa-user"></i>Jeremy M</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 3-->
+                  <!-- testimonial 6-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -102,7 +141,7 @@
                         <small><i class="fa fa-user"></i>Erica F</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 4-->
+                  <!-- testimonial 7-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
@@ -114,7 +153,7 @@
                         <small><i class="fa fa-user"></i>Christine G</small>
                      </div>
                   </blockquote>
-                  <!-- testimonial 5-->
+                  <!-- testimonial 8-->
                   <blockquote>
                      <div class="col-md-4 col-lg-4 col-centered">
                         <!-- testimonial image-->
