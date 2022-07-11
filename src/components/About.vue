@@ -25,7 +25,7 @@
                <div class="col-lg-7 col-sm-12">
                   <h3>Our Philosophy</h3>
                   <p>Eagle Valley Sitters is committed to creating a nurturing and fun environment for children of all ages. We are dedicated to providing professional, safe, and reliable childcare to Vail and it’s surrounding areas.</p>
-                  <p>We plan activities including, but not limited to, going to the park, hiking our beautiful trails, taking scenic gondola rides, or skiing to ensure sure your kids have a great time  during their vacation in the high country of Colorado. All of our sitters are qualified, kind, and experienced.</p>
+                  <p>We plan activities including, but not limited to, going to the park, hiking our beautiful trails, taking scenic gondola rides, or skiing to ensure your kids have a great time  during their vacation in the high country of Colorado. All of our sitters are qualified, kind, and experienced.</p>
                </div>
                <!-- /col-lg-8 -->
             </div>
@@ -38,7 +38,7 @@
                      <i class="flaticon-person-1"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Infant Care</h5>
-                        <p>We take pride in our ability to to care for infants and toddlers.</p>
+                        <p>We take pride in our ability to care for infants and toddlers.</p>
                      </div>
                   </div>              
                   <!-- item5 -->
@@ -54,7 +54,7 @@
                      <i class="flaticon-music"></i>
                      <div class="media-body">
                         <h5 class="media-heading">Activities</h5>
-                        <p>We love fun and we plan several types of activities for the little ones to enjoy</p>
+                        <p>We love fun and we plan several types of activities for the little ones to enjoy.</p>
                      </div>
                   </div>
                </div>
