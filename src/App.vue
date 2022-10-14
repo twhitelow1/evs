@@ -134,7 +134,7 @@
          </div>
          <!-- / container -->
          <hr>
-         <p>Copyright © 2021 / Website Developed by  <a href="http://todd.whitelow.tech">Todd Whitelow</a></p>
+         <p>Copyright © 2021 / Website Developed by  <a href="https://dub-low.consulting">DubLow Consulting LLC</a></p>
          <!-- /container -->
          <!-- Go To Top Link -->
          <div class="page-scroll hidden-sm hidden-xs">
