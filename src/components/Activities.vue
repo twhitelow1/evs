@@ -68,7 +68,7 @@
                                  </div>
                                  <div id="collapse3" class="panel-collapse collapse">
                                     <div class="panel-body">
-                                       <p> June - September Weather Permitting.
+                                       <p> June - October Weather Permitting.
                                        </p>
                                     </div>
                                  </div>
@@ -136,7 +136,7 @@
                                  <div id="collapse6" class="panel-collapse collapse">
                                     <div class="panel-body">
                                        <p>
-
+                                          Year Round
                                        </p>
                                     </div>
                                  </div>

@@ -6,6 +6,7 @@
       <services></services>
       <pets></pets>
       <about></about>
+      <rates></rates>
       <!-- <team></team> -->
       <callout></callout>
       <!-- Parallax object -->
@@ -31,7 +32,6 @@
          <!-- Image -->
          <img src="img/parallaxobject3.png" alt="">
       </div>
-	  <rates></rates>
     
       <!-- Section Call to Action -->
       <section id="call-to-action" class="small-section">
