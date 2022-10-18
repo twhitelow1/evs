@@ -9,32 +9,10 @@
       <rates></rates>
       <!-- <team></team> -->
       <callout></callout>
-      <!-- Parallax object -->
-      <div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;"
-         data-100="transform:translatey(40%);"
-         data-center-center="transform:translatey(-180%);">
-         <!-- Image -->
-         <img src="img/parallaxobject1.png" alt="">
-      </div>
-      <activities></activities> 
-      <!-- Parallax object -->
-      <!-- <div class="parallax-object2 hidden-sm hidden-xs" data-0="opacity:1;"
-         data-start="margin-top:40%"
-         data-100="transform:translatey(0%);"
-         data-center-center="transform:translatey(-180%);"> -->
-         <!-- Image -->
-         <!-- <img src="img/parallaxobject2.png" alt="">
-      </div> -->
-      <!-- Parallax object -->
-      <div class="parallax-object3 hidden-sm hidden-xs" data-0="opacity:1;"
-         data-100="transform:translatex(0%);"
-         data-center-center="transform:translatex(380%);">
-         <!-- Image -->
-         <img src="img/parallaxobject3.png" alt="">
-      </div>
-    
+      
       <!-- Section Call to Action -->
       <section id="call-to-action" class="small-section">
+      
          <div class="container text-center">
             <div class="col-lg-6 col-lg-offset-6 col-sm-6">
 			<div class="well">
@@ -54,7 +32,29 @@
          <!-- /container-->
       </section>
       <!-- Section ends -->
-	  
+      <!-- Parallax object -->
+      <div class="parallax-object3 hidden-sm hidden-xs" data-0="opacity:1;"
+         data-100="transform:translatex(0%);"
+         data-center-center="transform:translatex(380%);">
+         <!-- Image -->
+         <img src="img/parallaxobject3.png" alt="">
+      </div>
+      <!-- Parallax object -->
+      <div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;"
+         data-100="transform:translatey(40%);"
+         data-center-center="transform:translatey(-180%);">
+         <!-- Image -->
+         <img src="img/parallaxobject1.png" alt="">
+      </div>
+      <activities></activities> 
+      <!-- Parallax object -->
+      <!-- <div class="parallax-object2 hidden-sm hidden-xs" data-0="opacity:1;"
+         data-start="margin-top:40%"
+         data-100="transform:translatey(0%);"
+         data-center-center="transform:translatey(-180%);"> -->
+         <!-- Image -->
+         <!-- <img src="img/parallaxobject2.png" alt="">
+      </div> -->
       <!-- Section Contact -->
       <section id="contact" class="color-section">
          <div class="container">
