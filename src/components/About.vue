@@ -99,7 +99,7 @@
                         <!-- quote -->
                         <p>Super pleased with Eagle Valley Sitters! I highly recommend their service. Very responsible and made our life easy in Beaver Creek. 
                         </p>
-                        <small><i class="fa fa-user">Jeremy Duck</i></small>
+                        <small><i class="fa fa-user">Jeremy D</i></small>
                      </div>
                   </blockquote>
                   <!-- testimonial 4-->
@@ -110,11 +110,8 @@
                      </div>
                      <div class="col-md-10 col-md-offset-1 quote-test">
                         <!-- quote -->
-                        <p>Cat was an absolute savior when I was in Vail visiting. I was stressed from deadlines with school, and she was the perfect fit to babysit my two year old son. She was so professional giving me check ins and photos and had the most calming energy.
-                           I knew instantly that I could trust her with my little guy.
-                           I sent her a rather long list of Information regarding my kiddo in terms of naps, food, cues, disciplanry rules and such; She followed them perfectly, my son and I cannot wait to get back to Vail and see Cat again!
-                        </p>
-                        <small><i class="fa fa-user">Niomi</i></small>
+                        <p>We had a really excellent experience with Cat and Abigail of Eagle Valley Sitters on our recent family trip to Vail with a four- and two-year-old. They were professional and flexible with our schedule, and made the days really fun and engaging for our kids. They were really easy to work with and we would highly recommend them to anyone who is looking for help with kids in the Vail area!</p>
+                        <small><i class="fa fa-user">Julie W</i></small>
                      </div>
                   </blockquote>
                   <!-- testimonial 5-->
