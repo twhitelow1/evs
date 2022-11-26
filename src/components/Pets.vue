@@ -13,7 +13,7 @@
 			<!-- main text -->
                <div class="col-md-12 col-lg-7 text-center">
                   <h3 class="text-center">Pet Care Services</h3>
-                  <p>Eagle Valley Sitters is now offering pet sitter serivices in Eagle and Summit Counties.
+                  <p>Eagle Valley Sitters is now offering pet sitting services in Eagle and Summit Counties.
                     Hourly pet sitting, overnight pet sitting, drop-in care and dog walks are all available to book. 
                     Let us provide your pets with quality care and loving companionship in the comfort or your own home(or hotel)!
                   </p>
