@@ -13,8 +13,7 @@
 			<!-- main text -->
                <div class="col-md-12 col-lg-7 text-center">
                   <h3 class="text-center">Professional, Safe, and Reliable Childcare.</h3>
-                  <p>Eagle Valley Sitters provides an engaging, warm, and safe environment for children ages 2 months - 12 years. We offer fun, dependable, and dynamic alternative childcare with qualified and experienced babysitters.
-                  All of our babysitters are CPR certified. Each sitter is put through an extensive hiring process consisting of interviewing, background checking, and reference checking. 
+                  <p>Eagle Valley Sitters offers short term babysitter placement services in the Vail Valley and Summit County, Colorado. We provide fun, dynamic childcare with the most qualified and experienced sitters in the Rocky Mountains. All of our babysitters are CPR certified. Each sitter is put through an extensive hiring process consisting of background checks, reference checks, previous employment verification, and in-depth interviews. For general questions and availability inquiries, please email <a href="cat@eaglevalleysitters.com">cat@eaglevalleysitters.com</a>.
                   </p>
                </div>
                <!-- /col-sm-12-->
