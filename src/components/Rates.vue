@@ -43,7 +43,7 @@
                            <li>Rates & terms are subject to change during peak times & public holidays.</li> 
                         </ul>
                         <h3>Pricing</h3>
-                        <i>Please pay sitter fees directly to the sitter</i>
+                        <i>Will be charged to your card on file</i>
                         <ul class="pricing-feature-list">
                            <li>1 Child: $35</li>
                            <li>2 Children: $38</li>
