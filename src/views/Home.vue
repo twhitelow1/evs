@@ -4,11 +4,12 @@
       <!-- Page width 'Boxed' of 'Full' -->
       <slider></slider>
       <services></services>
-      <rates></rates>
       <pets></pets>
+      <rates></rates>
+      <callout></callout>
       <about></about>
       <!-- <team></team> -->
-      <callout></callout>
+      
       
       <!-- Section Call to Action -->
       <section id="call-to-action" class="small-section">
