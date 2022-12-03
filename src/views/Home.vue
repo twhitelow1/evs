@@ -2,8 +2,8 @@
 <template>
   <div class="home">
       <!-- Page width 'Boxed' of 'Full' -->
-      <slider></slider>
       <services></services>
+      <slider></slider>
       <pets></pets>
       <about></about>
       <rates></rates>
