@@ -2,7 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import SitterApply from '../views/SitterApply.vue';
-import FAQ from '../views/FAQ.vue';
+import FAQ from '../views/faq1.vue';
 
 Vue.use(VueRouter);
 

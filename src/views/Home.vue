@@ -58,6 +58,10 @@
       </div> -->
       <!-- Section Contact -->
       <section id="contact" class="color-section">
+         <!-- svg triangle shape -->
+         <svg id="triangleShadow" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">
+            <path class="trianglePath1" d="M0 0 L50 100 L100 0 Z" />
+         </svg>
          <div class="container">
             <div class="col-lg-8 col-lg-offset-2">
                <!-- Section heading -->
