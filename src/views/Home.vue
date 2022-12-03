@@ -2,11 +2,11 @@
 <template>
   <div class="home">
       <!-- Page width 'Boxed' of 'Full' -->
-      <services></services>
       <slider></slider>
+      <services></services>
+      <rates></rates>
       <pets></pets>
       <about></about>
-      <rates></rates>
       <!-- <team></team> -->
       <callout></callout>
       
