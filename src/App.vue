@@ -39,12 +39,12 @@
               <ul class="nav navbar-nav page-scroll navbar-left">
                 <li><a href="#page-top">Home</a></li>
                 <li><a href="#services">Services</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#rates">Rates</a></li>
                 <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book</a></li> 
               </ul>
               <ul class="nav navbar-nav page-scroll navbar-right">               
+                <li><a href="#about">About</a></li>
                 <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply</a></li>
-                <li><a href="#activities">Activities</a></li>
                 <!-- <li><a href="#application">Apply</a></li>  -->
                 <!-- Dropdown -->
                 <!-- <li class="dropdown active">
@@ -56,7 +56,7 @@
                     <li class="active"><a href="#latestblog">Latest Posts</a></li>
                   </ul>
                 </li> -->
-                <li><a href="#rates">Rates</a></li>
+                <li><a href="#activities">Activities</a></li>
                 <li><a href="#contact">Contact</a></li>
 
                   <!-- Dropdown -->
