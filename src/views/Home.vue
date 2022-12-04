@@ -4,6 +4,7 @@
       <!-- Page width 'Boxed' of 'Full' -->
       <slider></slider>
       <services></services>
+      <EventBabysitting></EventBabysitting>
       <pets></pets>
       <rates></rates>
       <callout></callout>
@@ -108,6 +109,7 @@ import Activities from "../components/Activities.vue";
 import Rates from "../components/Rates.vue";
 import ContactForm from "../components/ContactForm.vue";
 import Pets from "../components/Pets.vue";
+import EventBabysitting from "../components/EventBabysitting.vue";
 
 export default {
   data: function () {
@@ -124,6 +126,7 @@ export default {
     Activities,
     Rates,
     ContactForm,
+    EventBabysitting,
   },
 };
 </script>
