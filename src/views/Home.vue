@@ -80,7 +80,8 @@
                <p>Please note that we do not currently employ a receptionist.</p>
                <p>If your call is not answered, please email us or leave a voicemail and we will get back to you as soon as possible. </p>
                <p>To book a sitter, please book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a> and fill out our client registration form</p><br/>
-                  <p>For questions and general inquiries, type your message below.</p><br/>
+               <p>Please review our <a href="/faq">Frequently Asked Questions</a>.</p> 
+               <p>If your questions aren't answered there please, type your message below.</p>
                <ContactForm></ContactForm>
 				 </div>
                   <!-- address info -->
