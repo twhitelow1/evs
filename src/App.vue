@@ -29,8 +29,8 @@
           <i class="fa fa-bars"></i>
           </button>
           <div class="navbar-brand-centered page-scroll">
-            <a v-if="window.width > 990" href="#page-top"><img src="img/EVSlogo.png"  alt=""></a>
-            <a v-if="window.width < 990" href="#page-top"><img src="img/evs-logo-landscape.png"  alt=""></a>
+            <a v-if="window.width > 990" href="#layerslider"><img src="img/EVSlogo.png"  alt=""></a>
+            <a v-if="window.width < 990" href="#layerslider"><img src="img/evs-logo-landscape.png"  alt=""></a>
           </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -38,7 +38,7 @@
           <div class="container">
               <ul class="nav navbar-nav page-scroll navbar-left">
                 <!-- <li><a href="#page-top">Home</a></li> -->
-                <li><router-link :to="{path: '/', hash:'#page-top'}"> Home</router-link></li>
+                <li><router-link :to="{path: '/', hash:'#layerslider'}"> Home</router-link></li>
                 <li><router-link :to="{path: '/', hash:'#services'}"> Services</router-link></li>
                 <!-- <li><a href="https://eaglevalleysitters.com/#services">Services</a></li> -->
                 <li><router-link :to="{path: '/', hash:'#rates'}">Rates</router-link></li>
