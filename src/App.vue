@@ -37,27 +37,33 @@
         <div class="collapse navbar-collapse" id="navbar-brand-centered">
           <div class="container">
               <ul class="nav navbar-nav page-scroll navbar-left">
-                <li><a href="#page-top">Home</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#rates">Rates</a></li>
+                <!-- <li><a href="#page-top">Home</a></li> -->
+                <li><router-link :to="{path: '/', hash:'#page-top'}"> Home</router-link></li>
+                <li><router-link :to="{path: '/', hash:'#services'}"> Services</router-link></li>
+                <!-- <li><a href="https://eaglevalleysitters.com/#services">Services</a></li> -->
+                <li><router-link :to="{path: '/', hash:'#rates'}">Rates</router-link></li>
+                <!-- <li><a href="#rates">Rates</a></li> -->
                 <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">Book</a></li> 
               </ul>
               <ul class="nav navbar-nav page-scroll navbar-right">               
-                <li><a href="#about">About</a></li>
+                <li><router-link :to="{path: '/', hash:'#about'}">About</router-link></li>
+                <!-- <li><a href="#about">About</a></li> -->
                 <li><a href="https://eaglevalleysitters.enginehire.io/application-form/195/4175">Apply</a></li>
                 <!-- <li><a href="#application">Apply</a></li>  -->
                 <!-- Dropdown -->
                 <!-- <li class="dropdown active">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="blog-home.html">Blog Home</a></li>
-                    <li><a href="blog-post.html">Blog Post</a></li>
+                    <li><a href="/faq">FAQ</a></li>
+                    <li><a href="#contact">Contact</a></li>
                     <li class="divider"></li>
                     <li class="active"><a href="#latestblog">Latest Posts</a></li>
                   </ul>
                 </li> -->
-                <li><a href="#activities">Activities</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><router-link :to="{path: '/', hash:'#activities'}">Activities</router-link></li>
+                <!-- <li><a href="#activities">Activities</a></li> -->
+                <li><router-link :to="{path: '/', hash:'#contact'}">Contact</router-link></li>
+                <!-- <li><a href="#contact">Contact</a></li> -->
 
                   <!-- Dropdown -->
                   <!-- <li class="dropdown">
