@@ -72,6 +72,9 @@ export default {
   },
   created: function () {},
   methods: {},
+  mounted() {
+    window.scrollTo(0, 0);
+  },
   components: {
     ContactForm,
   },

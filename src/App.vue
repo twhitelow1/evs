@@ -62,17 +62,15 @@
                 </li> -->
                 <li><router-link :to="{path: '/', hash:'#activities'}">Activities</router-link></li>
                 <!-- <li><a href="#activities">Activities</a></li> -->
-                <li><router-link :to="{path: '/', hash:'#contact'}">Contact</router-link></li>
+                <!-- <li><router-link :to="{path: '/', hash:'#contact'}">Contact</router-link></li> -->
                 <!-- <li><a href="#contact">Contact</a></li> -->
 
                   <!-- Dropdown -->
                   <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a>
                   <ul class="dropdown-menu">
-                    <li><a href="elements.html">Elements</a></li>
-                    <li><a href="index_video.html">Video Header</a></li>
-                    <li><a href="sidebar-page.html">Sidebar Page</a></li>
-                    <li><a href="calendar.html">Calendar</a></li>
+                    <li><router-link :to="{path: '/', hash:'#contact'}">Contact Form</router-link></li>
+                    <li><router-link :to="{path: '/faq'}">FAQ</router-link></li>
                   </ul>
                 </li> 
               </ul>
