@@ -66,7 +66,7 @@
                 <!-- <li><a href="#contact">Contact</a></li> -->
 
                   <!-- Dropdown -->
-                  <!-- <li class="dropdown">
+                  <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li><a href="elements.html">Elements</a></li>
@@ -74,7 +74,7 @@
                     <li><a href="sidebar-page.html">Sidebar Page</a></li>
                     <li><a href="calendar.html">Calendar</a></li>
                   </ul>
-                </li> -->
+                </li> 
               </ul>
           </div>
         </div>
