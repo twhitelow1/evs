@@ -16,7 +16,7 @@
           <div class="col-lg-12 text-center">		   
             <div class="faq text-left">					    
               <h4>Why Choose Eagle Valley Sitters? </h4>
-              <ul style="margin-left: 30px">
+              <ul style="margin-left: 30px; size: 16px; line-height: 2em;">
                 <li>We are a small, locally owned and operated business that knows all of our sitters personally. </li>
                 <li>Using our expertise and experience, we can match you with the best sitter from our team to meet your family’s unique needs. We work hard to ensure that you can have peace of mind leaving your children or pets with qualified sitters.</li> 
                 <li>All of our sitters possess a minimum of 2 years professional, verified experience.</li>
@@ -76,6 +76,9 @@
 </template>
 
 <style>
+li {
+  margin: 15px 0;
+}
 </style>
 
 <script>
