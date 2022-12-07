@@ -29,8 +29,8 @@
           <i class="fa fa-bars"></i>
           </button>
           <div class="navbar-brand-centered page-scroll">
-            <a v-if="window.width > 990" href="#layerslider"><img src="img/EVSlogo.png"  alt=""></a>
-            <a v-if="window.width < 990" href="#layerslider"><img src="img/evs-logo-landscape.png"  alt=""></a>
+            <router-link v-if="window.width > 990" :to="{path: '/', hash:'#layerslider'}"><img src="img/EVSlogo.png"  alt=""></router-link>
+            <router-link v-if="window.width < 990" :to="{path: '/', hash:'#layerslider'}"><img src="img/evs-logo-landscape.png"  alt=""></router-link>
           </div>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
