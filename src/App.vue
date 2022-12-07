@@ -67,7 +67,7 @@
 
                   <!-- Dropdown -->
                   <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a>
+                  <a href="" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b></a>
                   <ul class="dropdown-menu">
                     <li><router-link :to="{path: '/', hash:'#contact'}">Contact Form</router-link></li>
                     <li><router-link :to="{path: '/faq'}">FAQ</router-link></li>

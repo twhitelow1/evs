@@ -14,16 +14,14 @@
           </div>
           <!-- FAQ -->
           <div class="col-lg-12 text-center">		   
-            <div class="faq">					    
+            <div class="faq text-left">					    
               <h4>Why Choose Eagle Valley Sitters? </h4>
-              <ol style="margin-left: 30px">
+              <ul style="margin-left: 30px">
                 <li>We are a small, locally owned and operated business that knows all of our sitters personally. </li>
-                <li>Using our expertise and experience, we can match you with the best sitter from our team to meet your family’s unique needs.</li>
-                <li>We work hard to ensure that you can have peace of mind leaving your children or pets with qualified sitters.</li> 
+                <li>Using our expertise and experience, we can match you with the best sitter from our team to meet your family’s unique needs. We work hard to ensure that you can have peace of mind leaving your children or pets with qualified sitters.</li> 
                 <li>All of our sitters possess a minimum of 2 years professional, verified experience.</li>
-                <li>Where possible, we aim to provide the same sitter across multiple bookings.</li>
-                <li>We understand consistency is important for our clients and work to ensure a seamless experience.</li>
-              </ol>
+                <li>Where possible, we aim to provide the same sitter across multiple bookings. We understand consistency is important for our clients and work to ensure a seamless experience.</li>
+              </ul>
               <p>Booking a babysitter is easy! You can book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a>. </p> 
               <p>Once a sitter has been assigned, you’ll have access to their sitter profile to view all of the information you need prior to your appointment.</p>
               <h4>What is your cancellation policy?</h4>
@@ -38,7 +36,7 @@
 
 
               <h4>Are all of your babysitters CPR certified and background checked?</h4> 
-              <p>Yes! All of our sitters are CPR certified and background checked with an FRC compliant screening.</p>
+              <p>Yes! All of our sitters are CPR certified and background checked with an FRCA compliant screening.</p>
 
               <h4>What is the child to sitter ratio?</h4>
               <p>One sitter can watch up to 4 children. If there are more than 4 children, 2 sitters are required, to remain in compliance with Colorado state laws.</p>
@@ -53,7 +51,7 @@
               <h4>What is your holiday pricing?</h4>
               <p>July 4th- 43/hr plus 5 each additional child</p>
               <p>Thanksgiving Day- 51/ hr plus 5 each additional child</p>
-              <p>Christmas eve - 51/ hr plus 5 each additional child</p>
+              <p>Christmas Eve - 51/ hr plus 5 each additional child</p>
               <p>Christmas Day- 51/ hr plus 5 each additional child</p>
               <p>New Year’s Eve after 5 pm- 60/ hr plus 5 each additional child *5 hour minimum</p>
               <p>New Year’s Day- 51/ hr plus 5 each additional child *5 hour minimum</p>

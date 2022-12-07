@@ -10,7 +10,7 @@
       </div>
       <div>
         <h4>Why Choose Eagle Valley Sitters? </h4>
-          <ol style="margin-left: 30px">
+          <ul style="margin-left: 30px; list-style: square;">
             <li>We are a small, locally owned and operated business that knows all of our sitters personally. </li>
             <li>Using our expertise and experience, we can match you with the best sitter from our team to meet your family’s unique needs.</li>
             <li>We work hard to ensure that you can have peace of mind leaving your children or pets with qualified sitters.</li> 
@@ -19,7 +19,7 @@
             <li>We understand consistency is important for our clients and work to ensure a seamless experience.</li>
             <li>Booking a babysitter is easy! You can book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a>. </li> 
             <li>Once a sitter has been assigned, you’ll have access to their sitter profile to view all of the information you need prior to your appointment.</li>
-          </ol>
+          </ul>
         <h4>What is your cancellation policy?</h4>
         <p>All cancellations made within 48 hours of the booking start time will incur a full charge. Unfortunately, there can be no exceptions to this policy. </p>
         <p>* Please note that cancellations made during Christmas Vacation weeks (12/18- 1/5) have a 7 day cancellation policy.</p>
