@@ -78,10 +78,10 @@
 				   <p><i class="flaticon-back"></i><a href="mailto:cat@eaglevalleysitters.com">cat@eaglevalleysitters.com</a></p><br/>
 					<p><i class="fa fa-phone margin-icon"></i>Call or Text us at <a href="tel:19703419701">(970) 341-9701</a></p><br/>
                <p>Please note that we do not currently employ a receptionist.</p>
-               <p>If your call is not answered, please email us or leave a voicemail and we will get back to you as soon as possible. </p>
-               <p>To book a sitter, please book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a> and fill out our client registration form</p><br/>
-               <p>Please review our <a href="/faq">Frequently Asked Questions</a>.</p> 
-               <p>If your questions aren't answered there please, type your message below.</p>
+               <p>If your call is not answered, kindly email us or leave a voicemail and we will get back to you as soon as possible. </p>
+               <p>To book a sitter, book online <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4186">here</a> and fill out our client registration form</p><br/>
+               <p>First review our <a href="/faq">Frequently Asked Questions</a>.</p> 
+               <p>If your questions aren't answered there, simply type your message below.</p>
                <ContactForm></ContactForm>
 				 </div>
                   <!-- address info -->
