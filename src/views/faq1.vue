@@ -36,7 +36,7 @@
 
 
               <h4>Are all of your babysitters CPR certified and background checked?</h4> 
-              <p>Yes! All of our sitters are CPR certified and background checked with an FRCA compliant screening.</p>
+              <p>Yes! All of our sitters are CPR certified and background checked with an FCRA compliant screening.</p>
 
               <h4>What is the child to sitter ratio?</h4>
               <p>One sitter can watch up to 4 children. If there are more than 4 children, 2 sitters are required, to remain in compliance with Colorado state laws.</p>
