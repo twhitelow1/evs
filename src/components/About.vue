@@ -23,9 +23,10 @@
                </div>
                <!-- text -->
                <div class="col-lg-7 col-sm-12">
-                  <h3>Our Philosophy</h3>
-                  <p>Eagle Valley Sitters is committed to creating a nurturing and fun environment for children of all ages. We are dedicated to providing professional, safe, and reliable childcare to Vail and it’s surrounding areas.</p>
-                  <p>We plan activities including, but not limited to, going to the park, hiking our beautiful trails, taking scenic gondola rides, or skiing to ensure your kids have a great time  during their vacation in the high country of Colorado. All of our sitters are qualified, kind, and experienced.</p>
+                  <!-- <h3>Our Philosophy</h3> -->
+                  <p>Eagle Valley Sitters is committed to being the #1 babysitting and pet sitting service in Eagle and Summit county Colorado. With the most qualified and experienced sitters, we can provide each of our clients with a truly top-tier experience</p>
+                  <p>Owned by a former professional nanny, using our expertise, we match you with best sitter to meet your family's unique needs</p>
+                  <p>We are a small, locally run business, that knows each and every one of our sitters. We're passionate about what we do and we aim to give our clients a peace of mind when leaving their children (or pets!) in our care.</p>
                </div>
                <!-- /col-lg-8 -->
             </div>
