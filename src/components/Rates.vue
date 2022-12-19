@@ -50,7 +50,7 @@
                         <h4>Booking Fees</h4>
                         <i>Will be charged to the card on file</i>
                         <ul class="pricing-feature-list">
-                           <li>$15 per a day</li>        
+                           <li>$15 per day</li>        
                         </ul>  
                         <!-- Button-->
                         <div class="page-scroll">
