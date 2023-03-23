@@ -21,7 +21,7 @@
                <!-- /col-sm-12-->
                <div class="col-md-12 col-lg-5">
                   <!-- Image -->
-                  <img src="img/petsitting.jpg" alt="petsitting" class="img-responsive center-block">
+                  <img src="img/petsitting.webp" alt="petsitting" class="img-responsive center-block">
                </div>
                <!-- /col-md-12-->
             </div>
