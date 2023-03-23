@@ -19,7 +19,7 @@
                <!-- /col-sm-12-->
                <div class="col-md-12 col-lg-5">
                   <!-- Image -->
-                  <img src="img/kidsitting.jpg" alt="" class="img-responsive center-block">
+                  <img src="img/kidsitting.webp" alt="" loading="lazy" class="img-responsive center-block">
                </div>
                <!-- /col-md-12-->
             </div>

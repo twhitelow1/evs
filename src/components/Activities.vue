@@ -155,7 +155,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/gondolaonesmall.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/gondolaonesmall.webp" alt="" loading="lazy" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->
@@ -221,7 +221,7 @@
                      <div class="row">
                         <div class="col-md-5 col-lg-5 pull-left">
                            <!-- Activity image-->
-                           <img src="img/boyonslide.jpg" alt="" class="img-responsive img-circle">						
+                           <img src="img/boyonslide.jpg" loading="lazy" alt="" class="img-responsive img-circle">						
                         </div>
                         <div class="col-md-7 col-lg-7 pull-left">
                            <!-- Activity text-->

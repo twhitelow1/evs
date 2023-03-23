@@ -13,7 +13,7 @@
               <!-- /col-sm-12-->
                <div class="col-md-12 col-lg-5">
                   <!-- Image -->
-                  <img src="img/girl2.jpg" alt="Lil Girl Playing In Red Dress" class="img-responsive center-block">
+                  <img src="img/girl2.webp" loading="lazy" alt="Lil Girl Playing In Red Dress" class="img-responsive center-block">
                </div>
                <!-- /col-md-12-->
 			<!-- main text -->

@@ -14,10 +14,10 @@
                   <!-- Carousel -->
                   <div id="owl-about" class="owl-carousel">
                      <div class="item">
-                        <img class="img-responsive" src="img/teachingkid.webp" alt="">
+                        <img class="img-responsive" src="img/teachingkid.webp" loading="lazy" alt="">
                      </div>
                      <div class="item">
-                        <img class="img-responsive" src="img/babysitterwithkid.webp" alt="">
+                        <img class="img-responsive" src="img/babysitterwithkid.webp" loading="lazy" alt="">
                      </div>
                   </div>
                </div>

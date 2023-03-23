@@ -61,7 +61,7 @@
          <!-- Slide 4 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/layout/playinginsnow.jpg" class="ls-bg"  alt="Slide background"/>
+            <img src="img/layout/playinginsnow.webp" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
@@ -74,7 +74,7 @@
                </div>
             </div>
             <!-- Parallax Image -->
-            <img src="img/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+            <img src="img/flower.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
       </div>
       <!-- /Layerslider ends-->
