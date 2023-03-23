@@ -6,7 +6,7 @@
          <!-- Slide 1 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/kid1.jpg" class="ls-bg"  alt="Slide background"/>
+            <img src="img/kid1.webp" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->z
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
@@ -20,13 +20,13 @@
                </div>
             </div>
             <!-- Parallax Image -->
-            <img src="img/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+            <img src="img/flower.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div><!-- Slide 2 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/petsitting.jpg" class="ls-bg"  alt="Slide background"/>
+            <img src="img/petsitting.webp" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->z
-            <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
+            <img src="img/sun.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Now Offering Pet Sitting!</h1>
@@ -38,14 +38,14 @@
                </div>
             </div>
             <!-- Parallax Image -->
-            <img src="img/flower.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+            <img src="img/flower.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
          <!-- Slide 3 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/playingbylake.jpg" class="ls-bg"  alt="Slide background"/>
+            <img src="img/playingbylake.webp" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->
-            <img src="img/bee.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
+            <img src="img/bee.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <h1>Your Kids Are On Vacation Too!</h1>
@@ -56,7 +56,7 @@
                </div>
             </div>
             <!-- Parallax Image -->
-            <img src="img/star.png" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+            <img src="img/star.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
          <!-- Slide 4 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
