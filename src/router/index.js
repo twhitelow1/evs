@@ -3,6 +3,7 @@ import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import SitterApply from '../views/SitterApply.vue';
 import FAQ from '../views/faq1.vue';
+import Privacy from '../views/Privacy.vue';
 
 Vue.use(VueRouter);
 
@@ -21,6 +22,11 @@ const routes = [
     path: '/faq',
     name: 'faq',
     component: FAQ
+  },
+  {
+    path: '/privacy',
+    name: 'privacy',
+    component: Privacy
   },
   {
     path: '/about',
