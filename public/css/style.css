@@ -3155,6 +3155,7 @@ textarea.form-control:focus {
         height: 480px !important;
     }
 
+
     .header-text h1 {
         font-size: 44px;
         line-height: 44px;
@@ -3371,6 +3372,7 @@ textarea.form-control:focus {
         top: 60% !important;
     }
 
+
     .header-text h1 {
         font-size: 30px;
         line-height: 34px;
@@ -3394,6 +3396,7 @@ textarea.form-control:focus {
 /************ max width 480px *************/
 @media (max-width: 480px) {
     /* navbar-collapse */
+
 
 
     /* slider */
