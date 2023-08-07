@@ -71,6 +71,7 @@
                   <ul class="dropdown-menu">
                     <li><router-link :to="{path: '/', hash:'#contact'}">Contact Form</router-link></li>
                     <li><router-link :to="{path: '/faq'}">FAQ</router-link></li>
+                    <li><a href="https://eaglevalleysitters.enginehire.io/login/195">Login</a></li>
                   </ul>
                 </li> 
               </ul>
@@ -138,7 +139,13 @@
          </div>
          <!-- / container -->
          <hr>
-         <p>Copyright © 2021 / Website Developed by  <a href="https://dub-low.consulting">DubLow Consulting LLC</a></p>
+         <p>Copyright © 2023 / Website Developed by  <a href="https://todd.whitelow.tech">Todd Whitelow Jr.</a></p>
+         <p><a href="/privacy">Privacy Policy</a>.</p>
+         <p><a href="https://eaglevalleysitters.enginehire.io/login/195">Account Login</a>
+             - 
+            <a href="https://play.google.com/store/apps/details?id=com.ionic.eaglevalleysitters">Android App</a>
+             - 
+            <a href="https://apps.apple.com/us/app/eagle-valley-sitters/id6451325057">Apple App</a> </p>
          <!-- /container -->
          <!-- Go To Top Link -->
          <div class="page-scroll hidden-sm hidden-xs">
