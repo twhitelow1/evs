@@ -3,12 +3,6 @@
     <!-- Section Services -->
       <section id="pets" class="color-section">
          <div class="container">
-            <!--- <div class="col-lg-8 col-lg-offset-2">
-               
-               <div class="section-heading">
-                  <h2>Pet Sitting Services</h2>
-               </div>
-            </div> -->
             <div class="row">
 			<!-- main text -->
                <div class="col-md-12 col-lg-7 text-center">
