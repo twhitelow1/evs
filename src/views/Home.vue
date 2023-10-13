@@ -6,6 +6,7 @@
       <services></services>
       <EventBabysitting></EventBabysitting>
       <pets></pets>
+      <!-- <LongTermNanny></LongTermNanny> -->
       <rates></rates>
       <callout></callout>
       <about></about>
@@ -111,6 +112,7 @@ import Rates from "../components/Rates.vue";
 import ContactForm from "../components/ContactForm.vue";
 import Pets from "../components/Pets.vue";
 import EventBabysitting from "../components/EventBabysitting.vue";
+import LongTermNanny from "../components/LongTermNanny.vue";
 
 export default {
   data: function () {
@@ -129,6 +131,7 @@ export default {
     Rates,
     ContactForm,
     EventBabysitting,
+    LongTermNanny,
   },
 };
 </script>

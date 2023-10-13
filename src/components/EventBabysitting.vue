@@ -1,14 +1,8 @@
 <template>
-  <div class="Pets">
+  <div class="EventSittin">
     <!-- Section Services -->
       <section id="pets" class="color-section">
          <div class="container">
-            <!--- <div class="col-lg-8 col-lg-offset-2">
-               
-               <div class="section-heading">
-                  <h2>Pet Sitting Services</h2>
-               </div>
-            </div> -->
             <div class="row">
               <!-- /col-sm-12-->
                <div class="col-md-12 col-lg-5">
