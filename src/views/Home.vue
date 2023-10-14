@@ -6,7 +6,7 @@
       <services></services>
       <EventBabysitting></EventBabysitting>
       <pets></pets>
-      <LongTermNanny></LongTermNanny>
+      <!-- <LongTermNanny></LongTermNanny> -->
       <rates></rates>
       <callout></callout>
       <about></about>
