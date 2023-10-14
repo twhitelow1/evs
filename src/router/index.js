@@ -4,6 +4,8 @@ import Home from '../views/Home.vue';
 import SitterApply from '../views/SitterApply.vue';
 import FAQ from '../views/faq1.vue';
 import Privacy from '../views/Privacy.vue';
+import Blog from '../views/Blog.vue';
+import Mobile from '../views/Mobile.vue';
 
 Vue.use(VueRouter);
 
@@ -12,6 +14,11 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/mobile',
+    name: 'Mobile',
+    component: Mobile
   },
   {
     path: '/sitter-apply',
@@ -27,6 +34,11 @@ const routes = [
     path: '/privacy',
     name: 'privacy',
     component: Privacy
+  },
+  {
+    path: '/blog',
+    name: 'blog',
+    component: Blog
   },
   {
     path: '/about',
