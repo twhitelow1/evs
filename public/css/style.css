@@ -3372,7 +3372,6 @@ textarea.form-control:focus {
         top: 60% !important;
     }
 
-
     .header-text h1 {
         font-size: 30px;
         line-height: 34px;
@@ -3397,11 +3396,9 @@ textarea.form-control:focus {
 @media (max-width: 480px) {
     /* navbar-collapse */
 
-
-
     /* slider */
     #layerslider {
-        height: 190px !important;
+        height: 250px !important;
     }
 
     .header-text h1 {

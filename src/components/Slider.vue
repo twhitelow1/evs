@@ -29,7 +29,7 @@
             <img src="img/sun.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text container" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>Now Offering Pet Sitting!</h1>
+               <a  href="#pets"><h1>Now Offering Pet Sitting!</h1></a>
                <p class="subtitle hidden-xs"> We provide hourly pet sitting, overnight pet sitting, drop-in care, and dog walks. Let us watch over your fur babies.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
@@ -48,7 +48,7 @@
             <img src="img/bee.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>Your Kids Are On Vacation Too!</h1>
+               <a href="#activities"><h1>Your Kids Are On Vacation Too!</h1></a>
                <p class="subtitle hidden-xs"> We coordinate fun indoor and outdoor activities for kids to enjoy while visiting the high country of Colorado.</p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
@@ -61,12 +61,30 @@
          <!-- Slide 4 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
-            <img src="img/layout/playinginsnow.webp" class="ls-bg"  alt="Slide background"/>
+            <img src="img/boy-with-phone2.webp" class="ls-bg"  alt="Slide background"/>
+            <!-- Parallax Image -->
+            <img src="img/bee.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
+            <!-- Text -->
+            <div class="ls-l header-text" id="mobile-app-slide" data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
+               <a href="/mobile"><h1>Download our Free Mobile App!</h1></a>
+               <p class="subtitle hidden-xs">  Download our mobile app for iOS and Android to book a sitter faster and more efficiently, communicate with your nanny, review your sitter, and more</p>
+               <!-- Button -->
+               <div class="page-scroll hidden-xs hidden-sm ">
+                  <a class="btn" href="/mobile">Download Toady!</a>
+               </div>
+            </div>
+            <!-- Parallax Image -->
+            <img src="img/star.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+         </div>
+         <!-- Slide 5 -->
+         <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
+            <!-- Background image -->
+            <img src="img/layout/playinginsnow.jpg" class="ls-bg"  alt="Slide background"/>
             <!-- Parallax Image -->
             <img src="img/sun.png" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
-               <h1>We're Hiring!</h1>
+               <a href="https://eaglevalleysitters.enginehire.io/application-form/195/4175"><h1>We're Hiring!</h1></a>
                <p class="subtitle hidden-xs"> We are looking for qualified sitters, please click the button below to apply. </p>
                <!-- Button -->
                <div class="page-scroll hidden-xs">
