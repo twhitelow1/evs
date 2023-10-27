@@ -16,12 +16,12 @@
                     <h5 class="text-left">We refer some of the best nannies and sitters in Colorado</h5>
                     <p>Each Eagle Valley Sitters candidate must pass our multi-step screening process which includes:</p>
                     <div class="p-50">
-                        <ul class="text-left">
-                           <li>Resume Check that verifies previous childcare experience of at least 2 years</li>
-                           <li>Series of in-depth interviews </li>
-                           <li>Social media screen</li>
-                           <li>Background check and Reference check *we use an FCRA compliant screening and require a minimum of 2 professional references </li>
-                           <li>Pediatric CPR certification verification</li>
+                        <ul class="text-left" >
+                           <li style="font-size: 1.5em;">Resume Check that verifies previous childcare experience of at least 2 years</li>
+                           <li style="font-size: 1.5em;">Series of in-depth interviews </li>
+                           <li style="font-size: 1.5em;">Social media screen</li>
+                           <li style="font-size: 1.5em;">Background check and Reference check *we use an FCRA compliant screening and require a minimum of 2 professional references </li>
+                           <li style="font-size: 1.5em;">Pediatric CPR certification verification</li>
                         </ul>
                      </div>
                     <h5 class="text-left">Client satisfaction is our top priority. </h5>
@@ -46,9 +46,16 @@
     padding: 4em;
   }
   .nanny-placement-content h5 {
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: 600;
     margin-bottom: 1em;
+  }
+  
+  @media screen and (max-width: 768px ) {
+   .nanny-placement-content{
+       padding: 2em;
+       font-size: 1em;
+   }
   }
   </style>
   

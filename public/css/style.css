@@ -41,10 +41,11 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #696767;
+    font-size: 1em;
 }
 
 p {
-    font-size: 16px;
+    font-size: 1.5em;
     line-height: 29px;
 }
 
@@ -106,7 +107,7 @@ h4 {
 }
 
 h5 {
-    font-size: 28px;
+    font-size: 2em;
     margin: 0;
     font-family: 'Alegreya sans', serif;
     color: #333;
@@ -1407,7 +1408,7 @@ blockquote small:before {
 
 .pricing-feature-list li {
     padding: 10px;
-    font-size: 17px;
+    font-size: 2em;
 }
 
 .pricing-palden .pricing-item {
@@ -1421,6 +1422,7 @@ blockquote small:before {
 
 .pricing-palden .pricing-item-featured {
     margin: 0;
+    margin-bottom: 7em;
     z-index: 10;
     box-shadow: 0 0 40px rgba(134, 132, 132, 0.69);
 }
@@ -1481,9 +1483,14 @@ blockquote small:before {
 
 .pricing-palden .pricing-feature-list {
     margin: 0;
-    padding: 35px;
+    padding: 7em;
     list-style: disc;
     text-align: left;
+}
+
+.pricing-feature-text{
+    padding: 3em;
+    font-size: 2em;
 }
 
 .pricing-palden .pricing-feature {
@@ -3400,6 +3407,18 @@ textarea.form-control:focus {
     #layerslider {
         height: 250px !important;
     }
+    .pricing-palden .pricing-feature-list{
+        padding: 1.5em;
+        font-size: 12px;
+    }
+    .subtext{
+        font-size: .5em;
+        font-size: 12px;
+    }
+    .pricing-feature-text{
+        font-size: 24px;
+        padding: 20px;
+    }
 
     .header-text h1 {
         font-size: 26px;
@@ -3421,6 +3440,7 @@ textarea.form-control:focus {
     section .container {
         padding-top: 60px;
         padding-bottom: 60px;
+        line-height: 1.5em;
     }
 
     .section-heading h2 {
