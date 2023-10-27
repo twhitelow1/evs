@@ -71,6 +71,7 @@
                   <ul class="dropdown-menu">
                     <li><router-link :to="{path: '/', hash:'#contact'}">Contact Form</router-link></li>
                     <li><router-link :to="{path: '/faq'}">FAQ</router-link></li>
+                    <li><a href="https://eaglevalleysitters.enginehire.io/pmyVoRYdlqYl5rAx/gift-cards">Gift Cards</a></li>
                     <li><a href="https://eaglevalleysitters.enginehire.io/login/195">Login</a></li>
                   </ul>
                 </li> 

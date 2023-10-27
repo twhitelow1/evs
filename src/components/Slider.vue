@@ -59,12 +59,30 @@
             <!-- Parallax Image -->
             <img src="img/flower.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
-         <!-- Slide 4 -->
+          <!-- Slide 4 -->
+          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
+            <!-- Background image -->
+            <img src="img/child-sits-christmas-tree.webp" class="ls-bg"  alt="Slide background"/>
+            <!-- Parallax Image -->
+            <img src="img/bee.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
+            <!-- Text -->
+            <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
+               <a href="#activities"><h1>Gift a Helping Hand!</h1></a>
+               <p class="subtitle hidden-xs"> Babysitting Gift Cards for Cherished Parents</p>
+               <!-- Button -->
+               <div class="page-scroll hidden-xs">
+                  <a class="btn" href="https://eaglevalleysitters.enginehire.io/pmyVoRYdlqYl5rAx/gift-cards">Buy A Gift Card</a>
+               </div>
+            </div>
+            <!-- Parallax Image -->
+            <img src="img/star.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
+         </div>
+         <!-- Slide 5 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
             <img src="img/playingbylake.webp" class="ls-bg"  alt="Slide background"/>
-            <!-- Parallax Image -->
-            <img src="img/bee.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:7;">
+            <!-- Parallax Image -->z
+            <img src="img/sun.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax1" alt="" data-ls="delayin:1000;easingin:fadeIn;parallaxlevel:7;">
             <!-- Text -->
             <div class="ls-l header-text"  data-ls="offsetxin:0;durationin:2000;delayin:1500;easingin:easeOutElastic;rotatexin:-90;transformoriginin:50% top 0;offsetxout:-200;durationout:1000;parallaxlevel:2;">
                <a href="#activities"><h1>Your Kids Are On Vacation Too!</h1></a>
@@ -77,7 +95,7 @@
             <!-- Parallax Image -->
             <img src="img/star.webp" class="ls-l img-responsive hidden-xs hidden-sm parallax2" alt="" data-ls="delayin:1500;easingin:fadeIn;parallaxlevel:6;">
          </div>
-         <!-- Slide 5 -->
+         <!-- Slide 6 -->
          <div class="ls-slide" data-ls="transition2d:104;timeshift:-2000;">
             <!-- Background image -->
             <img src="img/boy-with-phone2.webp" class="ls-bg"  alt="Slide background"/>
