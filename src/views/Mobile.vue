@@ -75,7 +75,18 @@
                         <p>Download the Eagle Valley Sitters App and receive 10% off your first booking made through the app.*</p>
                         
                         <p>You can view your sitters profile and contact details, send messages and important information to the sitter, create and cancel bookings, and leave a review or a tip for your sitter.all in one place. It's that easy! </p>
+                        <p>The Eagle Valley Sitters app streamlines booking babysitters, dog walkers, and pet sitters.</p>
+                        <p>From the Eagle Valley Sitters app, you can:</p>
+                        <ul>
+                            <li>View your sitter’s profile and contact details</li>
+                            <li>Send messages or important information directly to your sitter through our messaging feature</li>
+                            <li>Create and cancel bookings</li>
+                            <li>Purchase gift cards</li>
+                            <li>Leave reviews and tips for your sitter.</li> 
+                        </ul>
+                        <p>All in one place. It's that easy!</p>
                         <p class="text-italic-small"> *excluding holidays and peak times The Eagle Valley Sitters app streamlines booking babysitters, dog walkers, and pet sitters. </p>
+
                     </div>
                     <div class="app-buttons">
                         <a href="https://apps.apple.com/us/app/eagle-valley-sitters/id6451325057"><img class="app-store-button" src="/img/applestore.png" alt="Download From App Store"></a>
