@@ -140,7 +140,7 @@
          </div>
          <!-- / container -->
          <hr>
-         <p>Copyright © 2023 / Website Developed by  <a href="https://todd.whitelow.tech">Todd Whitelow Jr.</a></p>
+         <p>Copyright © 2023 / Website Developed by  <a href="https://dub-low.consulting">DubLow Consulting LLC</a></p>
          <p><a href="/privacy">Privacy Policy</a>.</p>
          <p><a href="https://eaglevalleysitters.enginehire.io/login/195">Account Login</a>
              - 
