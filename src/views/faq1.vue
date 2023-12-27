@@ -62,7 +62,7 @@
               <p>July 4th- 43/hr plus 5 each additional child</p>
               <p>Thanksgiving Day- 51/ hr plus 5 each additional child</p>
               <p>Christmas Eve - 53/ hr plus 5 each additional child</p>
-              <p>Christmas Day- 51/ hr plus 5 each additional child</p>
+              <p>Christmas Day- 53/ hr plus 5 each additional child</p>
               <p>New Year’s Eve after 5 pm- 65/ hr plus 5 each additional child *5 hour minimum</p>
               <p>New Year’s Day- 51/ hr plus 5 each additional child *5 hour minimum</p>
               <p>Valentine’s Day after 5 pm- 41/ hr + 5 each additional child</p>

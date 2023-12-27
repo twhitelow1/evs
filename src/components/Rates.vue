@@ -53,10 +53,10 @@
                            </tr>
                         </table> -->
                         <ul class="pricing-feature-list">
-                           <li>1 Child: $35</li>
-                           <li>2 Children: $38</li>
-                           <li>3 Children: $41</li>
-                           <li>4 Children: = $44</li>
+                           <li>1 Child: $37</li>
+                           <li>2 Children: $40</li>
+                           <li>3 Children: $43</li>
+                           <li>4 Children: = $46</li>
                            * More than 4 children will require 2 sitters. If children are in diapers, the child to sitter ratio is 2:1.
                         </ul>
                         <h4>Booking Fees</h4>
