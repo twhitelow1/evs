@@ -57,7 +57,9 @@
                            <li>2 Children: $40</li>
                            <li>3 Children: $43</li>
                            <li>4 Children: = $46</li>
-                           * More than 4 children will require 2 sitters. If children are in diapers, the child to sitter ratio is 2:1.
+                           <p>* More than 4 children will require 2 sitters. If children are in diapers, the child to sitter ratio is 2:1.</p>
+                           <p>All cancellations made within 48 hours of the booking start time will incur a full charge.  Unfortunately, there can be no exceptions to this policy.</p>
+                           <p>* Please note that cancellations made during Christmas Vacation weeks (12/18- 1/5) have a 7 day cancellation policy.</p>
                         </ul>
                         <h4>Booking Fees</h4>
                         <i>$15 per day will be charged to the card on file</i>
